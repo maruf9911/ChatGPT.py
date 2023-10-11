@@ -1,0 +1,1425 @@
+| Product ID | Product Name            | Description                                       | Price | Category          | Halal Certificate |
+|------------|-------------------------|---------------------------------------------------|-------|-------------------|-------------------|
+| P101       | Fresh Apples            | Premium quality, handpicked apples.                | $2.49 | Fruits & Vegetables | No                |
+| P102       | Whole Wheat Bread       | Nutritious whole wheat bread for a healthy diet.   | $1.99 | Bakery            | Yes               |
+| P103       | Chicken Breast          | Boneless, skinless chicken breasts.                | $5.99 | Meat & Poultry    | Yes               |
+| P104       | Spaghetti Pasta         | Traditional Italian pasta for your favorite dishes.| $1.79 | Pasta & Grains    | Yes               |
+| P105       | Fresh Milk              | Farm-fresh, pasteurized whole milk.                | $3.49 | Dairy & Eggs      | No                |
+| P106       | Halal Ground Beef       | Premium halal ground beef for various recipes.    | $6.99 | Meat & Poultry    | Yes               |
+| P107       | Canned Tomatoes         | Diced tomatoes for sauces and stews.               | $1.29 | Canned Goods      | Yes               |
+| P108       | Halal Chicken Sausages  | Halal-certified chicken sausages.                 | $4.49 | Meat & Poultry    | Yes               |
+| P109       | Brown Rice              | Long-grain brown rice for a wholesome meal.       | $2.99 | Pasta & Grains    | Yes               |
+| P110       | Fresh Spinach           | Leafy green spinach, packed with nutrients.       | $1.79 | Fruits & Vegetables | No                |
+| P111       | Halal Turkey Breast     | Deli-sliced halal turkey breast.                  | $3.99 | Deli & Prepared Foods | Yes             |
+| P112       | Organic Quinoa          | Organic quinoa for a protein-rich diet.           | $4.99 | Pasta & Grains    | No                |
+| P113       | Greek Yogurt            | Creamy Greek yogurt with live cultures.           | $2.99 | Dairy & Eggs      | No                |
+| P114       | Halal Lamb Chops        | Halal-certified lamb chops for grilling.          | $9.99 | Meat & Poultry    | Yes               |
+| P115       | Frozen Mixed Vegetables | Convenient mix of frozen vegetables.               | $2.49 | Frozen Foods      | No                |
+| P116       | Halal Chicken Nuggets   | Halal-certified chicken nuggets for kids.         | $3.99 | Frozen Foods      | Yes               |
+| P117       | Extra Virgin Olive Oil  | Cold-pressed extra virgin olive oil.              | $7.99 | Condiments & Oils | No                |
+| P118       | Halal Beef Biryani      | Ready-to-eat halal beef biryani.                 | $5.49 | Ready Meals       | Yes               |
+| P119       | Sparkling Water         | Refreshing sparkling water, assorted flavors.     | $0.99 | Beverages         | No                |
+| P120       | Halal Chicken Tikka     | Marinated halal chicken tikka for easy cooking.   | $6.49 | Meat & Poultry    | Yes               |
+| P121       | Organic Avocado         | Certified organic avocados for a healthy diet.     | $2.99 | Fruits & Vegetables | No                |
+| P122       | Whole Grain Bagels      | Wholesome whole grain bagels for breakfast.       | $3.49 | Bakery            | No                |
+| P123       | Turkey Bacon            | Lean and flavorful turkey bacon strips.           | $4.99 | Meat & Poultry    | No                |
+| P124       | Gluten-Free Pasta        | Gluten-free pasta for those with dietary restrictions. | $3.99 | Pasta & Grains    | No                |
+| P125       | Almond Milk             | Dairy-free almond milk for a plant-based diet.    | $2.79 | Dairy & Eggs      | No                |
+| P126       | Halal Chicken Wings     | Halal-certified chicken wings for parties.        | $8.99 | Meat & Poultry    | Yes               |
+| P127       | Mixed Fruit Jam         | Delicious mixed fruit jam for your toast.         | $1.99 | Condiments & Oils | No                |
+| P128       | Halal Beef Jerky         | Halal-certified beef jerky for snacks on the go.  | $5.49 | Snacks            | Yes               |
+| P129       | Quinoa Salad            | Ready-to-eat quinoa salad with fresh vegetables. | $4.49 | Ready Meals       | No                |
+| P130       | Coconut Water           | Refreshing coconut water, natural electrolytes.  | $2.49 | Beverages         | No                |
+| P131       | Halal Chicken Shawarma  | Halal-certified chicken shawarma for wraps.       | $7.49 | Deli & Prepared Foods | Yes             |
+| P132       | Granola Bars            | Nutritious granola bars for a quick snack.        | $3.29 | Snacks            | No                |
+| P133       | Halal Lamb Kebabs        | Halal-certified lamb kebabs for grilling.        | $10.99 | Meat & Poultry   | Yes               |
+| P134       | Vegetable Spring Rolls  | Frozen vegetable spring rolls for appetizers.     | $4.99 | Frozen Foods      | No                |
+| P135       | Halal Chicken Curry     | Ready-to-eat halal chicken curry.                | $6.99 | Ready Meals       | Yes               |
+| P136       | Green Tea               | Organic green tea for a calming beverage.         | $2.19 | Beverages         | No                |
+| P137       | Halal Beef Burgers      | Juicy halal-certified beef burgers.               | $7.49 | Meat & Poultry    | Yes               |
+| P138       | Organic Honey           | Pure organic honey, a natural sweetener.          | $5.99 | Condiments & Oils | No                |
+| P139       | Halal Chicken Tenders   | Halal-certified chicken tenders for kids.        | $4.99 | Frozen Foods      | Yes               |
+| P140       | Dark Chocolate          | Premium dark chocolate bars for indulgence.       | $3.99 | Snacks            | No                |
+| P141       | Sweet Oranges           | Juicy and sweet oranges for a healthy snack.     | $1.99 | Fruits & Vegetables | No                |
+| P142       | Multigrain Baguette     | Crispy multigrain baguette for sandwiches.       | $2.49 | Bakery            | No                |
+| P143       | Salmon Fillets          | Fresh salmon fillets, perfect for grilling.      | $12.99 | Seafood           | No                |
+| P144       | Organic Brown Eggs      | Organic brown eggs from free-range hens.         | $3.99 | Dairy & Eggs      | No                |
+| P145       | Quinoa & Kale Salad     | Nutrient-packed quinoa and kale salad.           | $4.99 | Ready Meals       | No                |
+| P146       | Pineapple Juice         | Refreshing pineapple juice, 100% natural.       | $2.99 | Beverages         | No                |
+| P147       | Halal Lamb Rack         | Halal-certified lamb rack for roasting.         | $15.99 | Meat & Poultry    | Yes               |
+| P148       | Chia Seed Pudding       | Chia seed pudding with assorted flavors.        | $3.49 | Dairy & Eggs      | No                |
+| P149       | Mixed Nuts              | Assorted mixed nuts for a crunchy snack.        | $5.99 | Snacks            | No                |
+| P150       | Sweet Corn               | Fresh sweet corn, perfect for grilling.         | $0.99 | Fruits & Vegetables | No                |
+| P151       | Halal Chicken Bacon     | Halal-certified chicken bacon strips.          | $6.49 | Meat & Poultry    | Yes               |
+| P152       | Black Bean Pasta        | Black bean pasta, a nutritious alternative.     | $3.79 | Pasta & Grains    | No                |
+| P153       | Blueberry Yogurt        | Creamy blueberry yogurt with probiotics.       | $2.49 | Dairy & Eggs      | No                |
+| P154       | Halal Turkey Burgers    | Juicy halal-certified turkey burgers.         | $7.99 | Meat & Poultry    | Yes               |
+| P155       | Frozen Pizza Margherita | Classic frozen margherita pizza.               | $4.99 | Frozen Foods      | No                |
+| P156       | Almond Flour            | Finely ground almond flour for baking.         | $8.99 | Pasta & Grains    | No                |
+| P157       | Mango Sorbet            | Refreshing mango sorbet for dessert.           | $3.99 | Frozen Foods      | No                |
+| P158       | Halal Chicken Burgers   | Halal-certified chicken burgers for grilling.  | $6.49 | Meat & Poultry    | Yes               |
+| P159       | Whole Grain Crackers    | Healthy whole grain crackers for snacking.     | $2.79 | Snacks            | No                |
+| P160       | Halal Chicken Kebabs    | Marinated halal chicken kebabs for BBQ.       | $8.49 | Meat & Poultry    | Yes               |
+| P161       | Mango Tango Juice        | Exotic mango tango juice blend.               | $2.49 | Beverages         | No                |
+| P162       | Halal Chicken Drumsticks| Halal-certified chicken drumsticks.          | $9.99 | Meat & Poultry    | Yes               |
+| P163       | Coconut Milk            | Rich and creamy coconut milk for cooking.     | $1.79 | Dairy & Eggs      | No                |
+| P164       | Halal Lamb Stew         | Ready-to-cook halal lamb stew.               | $11.99 | Ready Meals       | Yes               |
+| P165       | Mixed Berry Smoothie     | Frozen mixed berry smoothie blend.               | $4.99 | Beverages         | No                |
+| P166       | Halal Chicken Hot Dogs  | Halal-certified chicken hot dogs.                | $5.99 | Meat & Poultry    | Yes               |
+| P167       | Organic Almond Butter   | Creamy organic almond butter.                    | $7.99 | Condiments & Oils | No                |
+| P168       | Veggie Burgers           | Plant-based veggie burgers for a meatless option.| $5.49 | Meat & Poultry    | No                |
+| P169       | Mango Tango Juice        | Exotic mango tango juice blend.                 | $2.49 | Beverages         | No                |
+| P170       | Halal Chicken Drumsticks| Halal-certified chicken drumsticks.              | $9.99 | Meat & Poultry    | Yes               |
+| P171       | Organic Kale             | Fresh organic kale, rich in vitamins.           | $2.49 | Fruits & Vegetables | No                |
+| P172       | Whole Wheat Tortillas    | Whole wheat tortillas for wraps and burritos.   | $3.99 | Bakery            | No                |
+| P173       | Shrimp Scampi           | Shrimp scampi with garlic and lemon.           | $14.99 | Seafood           | No                |
+| P174       | Free-Range Chicken Eggs  | Free-range chicken eggs from local farms.       | $4.49 | Dairy & Eggs      | No                |
+| P175       | Mediterranean Quinoa    | Mediterranean-style quinoa with olives and feta.| $5.49 | Ready Meals       | No                |
+| P176       | Orange Juice            | Freshly squeezed orange juice.                 | $3.49 | Beverages         | No                |
+| P177       | Halal Lamb Leg          | Halal-certified lamb leg for roasting.         | $17.99 | Meat & Poultry    | Yes               |
+| P178       | Acai Berry Bowl         | Acai berry bowl with granola and fruit.       | $6.99 | Breakfast         | No                |
+| P179       | Trail Mix               | Energy-boosting trail mix with nuts and dried fruit.| $4.99 | Snacks          | No                |
+| P180       | Baby Carrots            | Fresh baby carrots, perfect for snacking.     | $1.29 | Fruits & Vegetables | No                |
+| P181       | Halal Chicken Sausage   | Halal-certified chicken sausage links.        | $5.49 | Meat & Poultry    | Yes               |
+| P182       | Lentil Pasta            | Lentil-based pasta for a protein-packed meal. | $3.99 | Pasta & Grains    | No                |
+| P183       | Strawberry Yogurt       | Creamy strawberry yogurt with real fruit pieces.| $2.49 | Dairy & Eggs      | No                |
+| P184       | Bison Burgers           | Lean and flavorful bison burgers.             | $9.99 | Meat & Poultry    | No                |
+| P185       | Margherita Pizza        | Classic margherita pizza with fresh mozzarella.| $6.99 | Frozen Foods      | No                |
+| P186       | Coconut Flour           | Gluten-free coconut flour for baking.         | $5.99 | Pasta & Grains    | No                |
+| P187       | Raspberry Sorbet        | Tart and refreshing raspberry sorbet.         | $3.99 | Frozen Foods      | No                |
+| P188       | Halal Chicken Wings     | Halal-certified chicken wings for snacking.   | $8.99 | Meat & Poultry    | Yes               |
+| P189       | Maple Syrup             | Pure maple syrup, perfect for pancakes.       | $7.49 | Condiments & Oils | No                |
+| P190       | Chicken Alfredo Pasta    | Ready-to-eat chicken alfredo pasta.           | $5.99 | Ready Meals       | No                |
+| P191       | Green Smoothie          | Healthy green smoothie with kale and spinach. | $4.49 | Beverages         | No                |
+| P192       | Halal Beef Ribs         | Halal-certified beef ribs for BBQ.           | $13.99 | Meat & Poultry    | Yes               |
+| P193       | Peanut Butter           | Creamy peanut butter, a classic spread.      | $3.99 | Condiments & Oils | No                |
+| P194       | Veggie Pizza            | Vegetarian pizza with a variety of veggies.  | $7.99 | Frozen Foods      | No                |
+| P195       | Turmeric Powder         | Ground turmeric powder for cooking and health.| $2.49 | Condiments & Oils | No                |
+| P196       | Lemon Sorbet            | Zesty lemon sorbet for a palate cleanser.    | $3.99 | Frozen Foods      | No                |
+| P197       | Halal Chicken Strips    | Halal-certified chicken strips for salads.   | $6.49 | Meat & Poultry    | Yes               |
+| P198       | Honey Mustard           | Tangy honey mustard for dipping and dressing.| $1.99 | Condiments & Oils | No                |
+| P199       | Chicken Fajita Bowl     | Ready-to-eat chicken fajita bowl.            | $6.99 | Ready Meals       | No                |
+| P200       | Matcha Green Tea        | Premium matcha green tea powder.             | $8.99 | Beverages         | No                |
+
+...
+
+| P981       | Avocado Toast           | Avocado toast with cherry tomatoes.           | $5.49 | Breakfast         | No                |
+| P982       | Buffalo Cauliflower Bites| Spicy buffalo cauliflower bites.              | $4.99 | Snacks            | No                |
+| P983       | Halal Chicken Quesadilla | Halal-certified chicken quesadilla.          | $7.99 | Frozen Foods      | Yes               |
+| P984       | Coconut Curry Sauce      | Rich coconut curry sauce for cooking.        | $3.99 | Condiments & Oils | No                |
+| P985       | Halal Chicken Enchiladas | Halal-certified chicken enchiladas.         | $8.49 | Frozen Foods      | Yes               |
+| P986       | Mango Lassi              | Refreshing mango lassi drink.                | $2.99 | Beverages         | No                |
+| P987       | Halal Beef Stroganoff     | Ready-to-eat halal beef stroganoff.         | $6.99 | Ready Meals       | Yes               |
+| P988       | Sweet Potato Fries        | Crispy sweet potato fries.                   | $3.49 | Frozen Foods      | No                |
+| P989       | Honey Glazed Salmon       | Honey glazed salmon fillets.                | $11.99 | Seafood           | No                |
+| P990       | Chocolate Protein Bars    | Chocolate-flavored protein bars.            | $2.79 | Snacks            | No                |
+| P991       | Halal Chicken Alfredo     | Ready-to-eat halal chicken alfredo.         | $5.99 | Ready Meals       | Yes               |
+| P992       | Mediterranean Hummus      | Traditional Mediterranean hummus.          | $4.49 | Snacks            | No                |
+| P993       | Halal Chicken Fajitas     | Halal-certified chicken fajitas.            | $7.99 | Frozen Foods      | Yes               |
+| P994       | Truffle Infused Olive Oil | Truffle-infused extra virgin olive oil.    | $9.99 | Condiments & Oils | No                |
+| P995       | Shrimp Stir-Fry           | Shrimp stir-fry with vegetables.            | $13.99 | Seafood           | No                |
+| P996       | Organic Chia Seeds        | Organic chia seeds for a healthy diet.     | $3.29 | Snacks            | No                |
+| P997       | Halal Chicken Biryani     | Ready-to-eat halal chicken biryani.        | $8.49 | Ready Meals       | Yes               |
+| P998       | Artisanal Sourdough Bread | Handcrafted artisanal sourdough bread.      | $6.99 | Bakery            | No                |
+| P999       | Lemon Poppy Seed Muffins  | Freshly baked lemon poppy seed muffins.    | $3.99 | Bakery            | No                |
+| P1000      | Matcha Chia Pudding       | Matcha-flavored chia seed pudding.         | $4.49 | Dairy & Eggs      | No                |
+| P1001      | Fresh Bananas      | Sweet and ripe bananas from local farms.        | $1.29 | Fruits & Vegetables | No                |
+| P1002      | Juicy Oranges      | Juicy and tangy oranges, packed with Vitamin C.| $1.99 | Fruits & Vegetables | No                |
+| P1003      | Sweet Strawberries | Plump and sweet strawberries for a delightful treat.| $2.49 | Fruits & Vegetables | No                |
+| P1004      | Tropical Pineapple  | Fresh and tropical pineapple, perfect for snacking.| $2.99 | Fruits & Vegetables | No                |
+| P1005      | Ripe Mangoes        | Ripe and succulent mangoes, a tropical delight. | $3.49 | Fruits & Vegetables | No                |
+| P1006      | Crisp Apples        | Crisp and refreshing apples for a healthy snack.| $1.79 | Fruits & Vegetables | No                |
+| P1007      | Seedless Grapes     | Seedless grapes, perfect for a quick energy boost.| $3.99 | Fruits & Vegetables | No                |
+| P1008      | Zesty Lemons        | Zesty lemons for cooking, baking, and beverages. | $1.49 | Fruits & Vegetables | No                |
+| P1009      | Fresh Kiwi          | Fresh and vibrant kiwi, rich in antioxidants.    | $0.99 | Fruits & Vegetables | No                |
+| P1010      | Exotic Dragon Fruit  | Exotic dragon fruit with a sweet and mild flavor.| $4.99 | Fruits & Vegetables | No                |
+| ...        | ...                | ...                                            | ...   | ...                 | ...               |
+| P1090      | Organic Blueberries | Organic blueberries, packed with antioxidants.  | $5.99 | Fruits & Vegetables | No                |
+| P1091      | Honeycrisp Apples   | Honeycrisp apples, known for their sweetness.  | $2.29 | Fruits & Vegetables | No                |
+| P1092      | Red Plums           | Juicy and red plums, great for snacking.       | $2.79 | Fruits & Vegetables | No                |
+| P1093      | Golden Pineapple    | Golden pineapple with a tropical and sweet taste.| $3.99 | Fruits & Vegetables | No                |
+| P1094      | Organic Strawberries| Organically grown strawberries for a healthy choice.| $3.49 | Fruits & Vegetables | No                |
+| P1095      | Granny Smith Apples | Tart and crisp Granny Smith apples.            | $1.99 | Fruits & Vegetables | No                |
+| P1096      | Blackberries        | Fresh blackberries, perfect for desserts.      | $4.49 | Fruits & Vegetables | No                |
+| P1097      | White Peaches       | Sweet and juicy white peaches.                 | $2.99 | Fruits & Vegetables | No                |
+| P1098      | Blood Oranges       | Blood oranges with a unique and citrusy flavor.| $2.79 | Fruits & Vegetables | No                |
+| IC001      | Vanilla Bean Ice Cream       | Classic vanilla bean ice cream with real vanilla. | $4.99 | Frozen Desserts | No                |
+| IC002      | Chocolate Fudge Brownie      | Rich chocolate ice cream with fudge brownie chunks.| $5.49 | Frozen Desserts | No                |
+| IC003      | Strawberry Swirl             | Sweet strawberry ice cream with a swirl of sauce.  | $4.79 | Frozen Desserts | No                |
+| IC004      | Mint Chocolate Chip          | Refreshing mint ice cream with chocolate chips.    | $4.99 | Frozen Desserts | No                |
+| IC005      | Caramel Pecan Delight        | Creamy caramel ice cream with pecan pieces.        | $6.49 | Frozen Desserts | No                |
+| IC006      | Cookies and Cream            | Vanilla ice cream with cookie pieces.              | $4.99 | Frozen Desserts | No                |
+| IC007      | Rocky Road                   | Chocolate ice cream with marshmallows and nuts.    | $5.99 | Frozen Desserts | No                |
+| IC008      | Coffee Crunch                | Coffee-flavored ice cream with crunchy bits.       | $5.29 | Frozen Desserts | No                |
+| IC009      | Tropical Sorbet              | Refreshing sorbet with tropical fruit flavors.     | $4.49 | Frozen Desserts | No                |
+| IC010      | Peanut Butter Paradise       | Peanut butter ice cream with swirls of chocolate.  | $6.99 | Frozen Desserts | No                |
+| ...        | ...                          | ...                                              | ...   | ...            | ...               |
+| IC990      | Blueberry Cheesecake         | Creamy cheesecake-flavored ice cream with blueberries.| $7.49 | Frozen Desserts | No                |
+| IC991      | Coconut Almond Bliss         | Coconut-flavored ice cream with almond pieces.     | $5.99 | Frozen Desserts | No                |
+| IC992      | Pistachio Perfection         | Pistachio-flavored ice cream for nut lovers.       | $6.79 | Frozen Desserts | No                |
+| IC993      | Chocolate Hazelnut Delight   | Rich chocolate hazelnut ice cream.                | $5.99 | Frozen Desserts | No                |
+| IC994      | Raspberry Ripple             | Raspberry-flavored ice cream with swirls of sauce. | $4.79 | Frozen Desserts | No                |
+| IC995      | Maple Walnut                 | Maple-flavored ice cream with walnut pieces.       | $6.49 | Frozen Desserts | No                |
+| IC996      | Lemon Sorbet                 | Zesty lemon sorbet for a refreshing treat.        | $4.29 | Frozen Desserts | No                |
+| IC997      | Salted Caramel Indulgence    | Indulgent salted caramel ice cream.               | $7.99 | Frozen Desserts | No                |
+| IC998      | Birthday Cake Celebration    | Celebration-worthy birthday cake-flavored ice cream.| $6.99 | Frozen Desserts | No                |
+| IC999      | Matcha Green Tea Delight     | Matcha-flavored ice cream with a delicate taste.   | $5.49 | Frozen Desserts | No                |
+| IC1000     | Double Chocolate Decadence   | Decadent double chocolate ice cream.              | $6.99 | Frozen Desserts | No                |
+| P1099      | Organic Raspberries | Organic raspberries for a burst of flavor.     | $3.99 | Fruits & Vegetables | No                |
+| P1100      | Passion Fruit       | Tropical passion fruit with a sweet and tangy taste.| $4.99 | Fruits & Vegetables | No                |
+| V1         | Fresh Tomatoes          | Plump and juicy vine-ripened tomatoes.              | $1.99 | Fruits & Vegetables | No                |
+| V2         | Organic Carrots         | Organic, crisp and sweet carrots.                   | $2.49 | Fruits & Vegetables | No                |
+| V3         | Spinach Leaves          | Tender, nutrient-packed spinach leaves.             | $1.79 | Fruits & Vegetables | No                |
+| V4         | Bell Peppers            | Colorful bell peppers for vibrant recipes.          | $2.99 | Fruits & Vegetables | No                |
+| V5         | Cucumber                | Crisp and refreshing cucumbers.                    | $1.29 | Fruits & Vegetables | No                |
+| V6         | Broccoli Florets        | Fresh broccoli florets, perfect for stir-fries.     | $2.99 | Fruits & Vegetables | No                |
+| V7         | Zucchini                | Versatile zucchini for grilling or sautéing.       | $1.49 | Fruits & Vegetables | No                |
+| V8         | Cherry Tomatoes         | Sweet and bite-sized cherry tomatoes.               | $2.79 | Fruits & Vegetables | No                |
+| V9         | Kale                    | Nutrient-rich kale, great for salads and smoothies. | $1.99 | Fruits & Vegetables | No                |
+| V10        | Avocado                 | Creamy avocados, perfect for guacamole.            | $1.99 | Fruits & Vegetables | No                |
+| V11        | Cauliflower             | Fresh cauliflower heads for roasting or mashing.   | $3.49 | Fruits & Vegetables | No                |
+| V12        | Eggplant                | Versatile eggplant for grilling or baking.         | $1.79 | Fruits & Vegetables | No                |
+| V13        | Red Bell Peppers        | Sweet and vibrant red bell peppers.                 | $2.99 | Fruits & Vegetables | No                |
+| V14        | Romaine Lettuce         | Crisp and fresh Romaine lettuce.                   | $1.99 | Fruits & Vegetables | No                |
+| V15        | Green Peas              | Sweet and tender green peas for various dishes.    | $2.49 | Fruits & Vegetables | No                |
+| V16        | Butternut Squash        | Rich and sweet butternut squash.                   | $2.49 | Fruits & Vegetables | No                |
+| V17        | Radicchio               | Bitter and colorful radicchio for salads.          | $2.99 | Fruits & Vegetables | No                |
+| V18        | Yellow Squash           | Mild and tender yellow squash.                     | $1.69 | Fruits & Vegetables | No                |
+| V19        | Portobello Mushrooms    | Meaty and flavorful Portobello mushrooms.          | $3.99 | Fruits & Vegetables | No                |
+| V20        | Green Onions            | Mild and crisp green onions for garnish.           | $1.29 | Fruits & Vegetables | No                |
+| ...        | ...                     | ...                                                | ...   | ...                | ...               |
+| V981       | Watermelon              | Juicy and refreshing watermelon slices.            | $4.99 | Fruits & Vegetables | No                |
+| V982       | Yellow Bell Peppers     | Vibrant yellow bell peppers for salads.            | $2.99 | Fruits & Vegetables | No                |
+| V983       | Acorn Squash            | Sweet and nutty acorn squash.                      | $2.99 | Fruits & Vegetables | No                |
+| V984       | Asparagus               | Fresh asparagus spears, great for grilling.        | $3.99 | Fruits & Vegetables | No                |
+| V985       | Artichoke Hearts        | Tender artichoke hearts, perfect for salads.       | $4.49 | Fruits & Vegetables | No                |
+| V986       | Radishes                | Crisp and peppery radishes for salads.             | $1.29 | Fruits & Vegetables | No                |
+| V987       | Snow Peas               | Sweet and crunchy snow peas for stir-fries.        | $2.99 | Fruits & Vegetables | No                |
+| V988       | Butternut Squash        | Rich and sweet butternut squash.                   | $2.49 | Fruits & Vegetables | No                |
+| V989       | Brussels Sprouts        | Nutty and flavorful Brussels sprouts.             | $2.79 | Fruits & Vegetables | No                |
+| V990       | Red Onions              | Sweet and vibrant red onions for cooking.          | $1.99 | Fruits & Vegetables | No                |
+| V991       | Sweet Potatoes          | Nutrient-dense sweet potatoes for various dishes.  | $1.79 | Fruits & Vegetables | No                |
+| V992       | Asparagus               | Fresh asparagus spears, great for grilling.        | $3.99 | Fruits & Vegetables | No                |
+| V993       | Artichoke Hearts        | Tender artichoke hearts, perfect for salads.       | $4.49 | Fruits & Vegetables | No                |
+| V994       | Radishes                | Crisp and peppery radishes for salads.             | $1.29 | Fruits & Vegetables | No                |
+| V995       | Snow Peas               | Sweet and crunchy snow peas for stir-fries.        | $2.99 | Fruits & Vegetables | No                |
+| V996       | Butternut Squash        | Rich and sweet butternut squash.                   | $2.49 | Fruits & Vegetables | No                |
+| V997       | Brussels Sprouts        | Nutty and flavorful Brussels sprouts.             | $2.79 | Fruits & Vegetables | No                |
+| V998       | Red Onions              | Sweet and vibrant red onions for cooking.          | $1.99 | Fruits & Vegetables | No                |
+| V999       | Yellow Bell Peppers     | Vibrant yellow bell peppers for salads.            | $2.99 | Fruits & Vegetables | No                |
+| V1000      | Green Beans             | Crisp and tender green beans for various dishes.   | $2.49 | Fruits & Vegetables | No                |
+| P1001      | French Baguette             | Crispy on the outside, soft on the inside.         | $2.99 | Bakery   | No                |
+| P1002      | Blueberry Muffins           | Freshly baked muffins bursting with blueberries.  | $1.49 | Bakery   | No                |
+| P1003      | Cinnamon Rolls              | Swirled with cinnamon and topped with icing.      | $3.99 | Bakery   | No                |
+| P1004      | Artisan Sourdough Loaf      | Handcrafted sourdough loaf with a rustic crust.    | $4.99 | Bakery   | No                |
+| P1005      | Chocolate Croissants        | Flaky croissants filled with rich chocolate.      | $2.49 | Bakery   | No                |
+| P1006      | Apple Danish Pastry         | Delicate pastry filled with sweet apple filling.  | $2.79 | Bakery   | No                |
+| P1007      | Multigrain Bread            | Healthy and hearty bread with a mix of grains.    | $3.29 | Bakery   | No                |
+| P1008      | Raspberry Danish            | Flaky pastry with a burst of raspberry goodness.  | $2.79 | Bakery   | No                |
+| P1009      | Pecan Pie                   | Classic pecan pie with a buttery crust.           | $8.99 | Bakery   | No                |
+| P1010      | Bagels                      | Assorted bagels for a perfect breakfast.          | $1.99 | Bakery   | No                |
+| P1011      | Chocolate Chip Cookies      | Irresistible cookies loaded with chocolate chips.| $4.49 | Bakery   | No                |
+| P1012      | Sourdough Baguette          | A tangy twist on the classic baguette.           | $3.49 | Bakery   | No                |
+| P1013      | Danish Almond Pastry        | Almond-flavored pastry with a sweet glaze.       | $2.99 | Bakery   | No                |
+| P1014      | Whole Wheat Scones          | Wholesome scones made with whole wheat flour.    | $2.19 | Bakery   | No                |
+| P1015      | Cherry Pie                  | Fresh cherry pie with a flaky crust.             | $7.99 | Bakery   | No                |
+| P1016      | Rye Bread                   | Dense and flavorful rye bread for sandwiches.    | $3.99 | Bakery   | No                |
+| P1017      | Lemon Tart                  | Tangy lemon filling in a buttery tart shell.     | $4.29 | Bakery   | No                |
+| P1018      | Pretzel Buns                | Soft and chewy pretzel buns for burgers.         | $2.49 | Bakery   | No                |
+| P1019      | Pumpkin Spice Muffins       | Muffins with the warm flavors of pumpkin spice.  | $1.79 | Bakery   | No                |
+| P1020      | Apple Cinnamon Bread        | A delightful blend of apples and cinnamon.       | $3.99 | Bakery   | No                |
+| ...        | ...                         | ...                                               | ...   | ...      | ...               |
+| P1100      | Almond Croissant            | Flaky croissant filled with almond paste.        | $2.99 | Bakery   | No                |
+| P1001      | Organic Chicken Breast   | Certified organic, skinless chicken breasts.      | $7.99 | Meat & Poultry  | No                |
+| P1002      | Grass-Fed Ground Beef    | Lean and flavorful ground beef, grass-fed.       | $9.99 | Meat & Poultry  | No                |
+| P1003      | Halal Chicken Thighs     | Halal-certified chicken thighs, bone-in.         | $6.49 | Meat & Poultry  | Yes               |
+| P1004      | Smoked Turkey Breast     | Deli-sliced smoked turkey breast.                | $8.99 | Meat & Poultry  | No                |
+| P1005      | Angus Beef Ribeye Steak  | Premium Angus beef ribeye steak for grilling.    | $14.99 | Meat & Poultry | No                |
+| P1006      | Ground Turkey            | Lean ground turkey for healthy recipes.          | $5.99 | Meat & Poultry  | No                |
+| P1007      | Halal Lamb Shoulder      | Halal-certified lamb shoulder for roasting.     | $11.99 | Meat & Poultry | Yes               |
+| P1008      | Chicken Drumsticks       | Fresh chicken drumsticks, perfect for BBQ.      | $3.99 | Meat & Poultry  | No                |
+| P1009      | Italian Sausage Links    | Flavorful Italian sausage links for cooking.    | $4.49 | Meat & Poultry  | No                |
+| P1010      | Whole Roast Chicken      | Whole roasted chicken, seasoned to perfection.  | $9.99 | Meat & Poultry | No                |
+| P1011      | Halal Chicken Wings      | Halal-certified chicken wings for snacking.     | $8.99 | Meat & Poultry | Yes               |
+| P1012      | Pork Chops               | Thick-cut pork chops for grilling.              | $10.99 | Meat & Poultry | No                |
+| P1013      | Ground Chicken           | Ground chicken, versatile for various dishes.   | $6.49 | Meat & Poultry  | No                |
+| P1014      | Turkey Bacon             | Smoked turkey bacon strips for a lean option.   | $4.99 | Meat & Poultry  | No                |
+| P1015      | Halal Chicken Tenders    | Halal-certified chicken tenders for appetizers. | $7.49 | Meat & Poultry | Yes               |
+| P1016      | Lamb Kebabs              | Marinated lamb kebabs for grilling.             | $12.99 | Meat & Poultry | No                |
+| P1017      | Chicken Sausage Patties  | Chicken sausage patties for breakfast.          | $3.99 | Meat & Poultry  | No                |
+| P1018      | Smoked Ham               | Premium smoked ham slices for sandwiches.      | $5.99 | Meat & Poultry  | No                |
+| P1019      | Halal Beef Brisket       | Halal-certified beef brisket for slow cooking. | $15.99 | Meat & Poultry | Yes               |
+| P1020      | Bacon-Wrapped Chicken     | Chicken breasts wrapped in savory bacon.       | $9.99 | Meat & Poultry | No                |
+| P1021      | Turkey Meatballs         | Lean turkey meatballs for various dishes.      | $7.99 | Meat & Poultry  | No                |
+| P1022      | Rotisserie Turkey        | Pre-cooked rotisserie-style turkey.            | $13.99 | Meat & Poultry | No                |
+| P1023      | Halal Chicken Burgers    | Halal-certified chicken burgers for grilling.  | $6.49 | Meat & Poultry | Yes               |
+| P1024      | Pork Ribs                | Finger-licking pork ribs for BBQ.              | $12.99 | Meat & Poultry | No                |
+| P1025      | Ground Lamb              | Premium ground lamb for savory dishes.         | $11.99 | Meat & Poultry | No                |
+| P1026      | Chicken Breakfast Sausage| Chicken breakfast sausage links for breakfast. | $4.99 | Meat & Poultry  | No                |
+| P1027      | Honey Glazed Ham         | Honey glazed ham for holiday feasts.           | $14.99 | Meat & Poultry | No                |
+| P1028      | Halal Chicken Strips     | Halal-certified chicken strips for salads.     | $6.49 | Meat & Poultry | Yes               |
+| P1029      | Bacon-Wrapped Shrimp     | Shrimp wrapped in savory bacon.                | $10.99 | Meat & Poultry | No                |
+| P1030      | Turkey Cutlets           | Turkey cutlets, perfect for quick meals.       | $8.49 | Meat & Poultry  | No                |
+| ...        | ...                     | ...                                               | ...   | ...             | ...               |
+| P1071      | Halal Lamb Leg           | Halal-certified lamb leg for roasting.         | $17.99 | Meat & Poultry | Yes               |
+| P1072      | Chicken Alfredo Pizza     | Frozen chicken alfredo pizza for convenience. | $6.99 | Meat & Poultry | No                |
+| P1073      | Halal Chicken Kebabs     | Marinated halal chicken kebabs for BBQ.       | $8.49 | Meat & Poultry | Yes               |
+| P1074      | Beef Stir-Fry Strips      | Pre-cut beef stir-fry strips for easy cooking. | $9.99 | Meat & Poultry | No                |
+| P1075      | Chicken Pot Roast        | Ready-to-cook chicken pot roast.               | $13.99 | Meat & Poultry | No                |
+| P1076      | Lamb Gyro Kit            | Lamb gyro kit with pita and tzatziki sauce.   | $11.99 | Meat & Poultry | No                |
+| P1077      | Halal Chicken Shawarma   | Pre-seasoned halal chicken shawarma strips.   | $7.99 | Meat & Poultry | Yes               |
+| P1078      | Meatball Sub Sandwich    | Frozen meatball sub sandwich for quick meals. | $5.99 | Meat & Poultry | No                |
+| P1079      | Chicken Fajita Bowl      | Ready-to-eat chicken fajita bowl.             | $6.99 | Meat & Poultry | No                |
+| P1080      | Teriyaki Beef Skewers    | Teriyaki-marinated beef skewers for grilling. | $10.99 | Meat & Poultry | No                |
+| P1091      | Halal Chicken Wings      | Halal-certified chicken wings for snacking.   | $8.99 | Meat & Poultry | Yes               |
+| P1092      | Bacon-Wrapped Filet Mignon| Tender filet mignon wrapped in savory bacon.  | $16.99 | Meat & Poultry | No                |
+| P1093      | Halal Chicken Nuggets    | Halal-certified chicken nuggets for kids.     | $3.99 | Meat & Poultry | Yes               |
+| P1094      | Pork Spare Ribs          | Succulent pork spare ribs for BBQ.            | $12.99 | Meat & Poultry | No                |
+| P1095      | Organic Turkey Burger    | Organic turkey burgers, perfect for grilling. | $7.99 | Meat & Poultry | No                |
+| P1096      | Halal Chicken Sausages   | Halal-certified chicken sausages.             | $4.49 | Meat & Poultry | Yes               |
+| P1097      | Lamb Chops               | Juicy lamb chops, ideal for grilling.         | $13.99 | Meat & Poultry | No                |
+| P1098      | Chicken Fajita Strips    | Pre-cut chicken fajita strips for easy cooking.| $5.99 | Meat & Poultry | No                |
+| P1099      | Ground Bison             | Lean ground bison, a healthier alternative.  | $10.99 | Meat & Poultry | No                |
+| P1100      | Halal Chicken Drumettes  | Halal-certified chicken drumettes for snacks.| $6.99 | Meat & Poultry | Yes               |
+| P1001      | Organic Quinoa          | Organic quinoa for a protein-rich diet.           | $4.99 | Pasta & Grains   | No                |
+| P1002      | Brown Rice              | Long-grain brown rice for a wholesome meal.       | $2.99 | Pasta & Grains   | Yes               |
+| P1003      | Spaghetti Pasta         | Traditional Italian pasta for your favorite dishes.| $1.79 | Pasta & Grains   | Yes               |
+| P1004      | Black Bean Pasta        | Black bean pasta, a nutritious alternative.       | $3.79 | Pasta & Grains   | No                |
+| P1005      | Lentil Pasta            | Lentil-based pasta for a protein-packed meal.     | $3.99 | Pasta & Grains   | Yes               |
+| P1006      | Whole Wheat Penne       | Whole wheat penne pasta for a healthy choice.     | $2.49 | Pasta & Grains   | No                |
+| P1007      | Jasmine Rice            | Fragrant jasmine rice for aromatic dishes.        | $3.49 | Pasta & Grains   | No                |
+| P1008      | Quinoa & Kale Blend     | Nutrient-packed quinoa and kale blend.            | $4.29 | Pasta & Grains   | No                |
+| P1009      | Farfalle Pasta          | Bowtie-shaped farfalle pasta for variety.        | $1.99 | Pasta & Grains   | Yes               |
+| P1010      | Basmati Rice            | Aromatic basmati rice for flavorful meals.        | $4.99 | Pasta & Grains   | No                |
+| P1011      | Couscous                | Quick-cooking couscous for easy meals.           | $1.49 | Pasta & Grains   | No                |
+| P1012      | Quinoa & Vegetable Mix  | Quinoa and vegetable mix for a balanced meal.     | $3.99 | Pasta & Grains   | No                |
+| P1013      | Organic Brown Rice      | Organic brown rice from sustainable farms.        | $4.49 | Pasta & Grains   | No                |
+| P1014      | Fusilli Pasta           | Corkscrew-shaped fusilli pasta for sauces.       | $2.19 | Pasta & Grains   | Yes               |
+| P1015      | Arborio Rice            | Arborio rice for creamy risotto dishes.           | $5.99 | Pasta & Grains   | No                |
+| P1016      | Spinach Fettuccine      | Fettuccine pasta infused with spinach.           | $3.79 | Pasta & Grains   | No                |
+| P1017      | Quinoa & Black Bean Mix | Quinoa and black bean mix for a protein boost.    | $4.99 | Pasta & Grains   | No                |
+| P1018      | Barley                  | Whole barley grains for soups and salads.         | $2.29 | Pasta & Grains   | No                |
+| P1019      | Macaroni                | Classic macaroni for your favorite mac 'n' cheese.| $1.59 | Pasta & Grains   | Yes               |
+| P1020      | Wild Rice Blend         | Blend of wild rice for a unique texture.          | $3.99 | Pasta & Grains   | No                |
+| P1021      | Quinoa & Cranberry Mix  | Quinoa and cranberry mix for a sweet twist.       | $4.99 | Pasta & Grains   | No                |
+| P1022      | Rotini Pasta            | Spiral-shaped rotini pasta for versatile dishes.  | $1.89 | Pasta & Grains   | Yes               |
+| P1023      | Brown Basmati Rice      | Aromatic brown basmati rice for wholesome meals.  | $5.49 | Pasta & Grains   | No                |
+| P1024      | Penne Rigate            | Ridged penne rigate for holding sauces.           | $2.09 | Pasta & Grains   | Yes               |
+| P1025      | Quinoa & Pesto Mix      | Quinoa and pesto mix for a flavorful meal.       | $4.99 | Pasta & Grains   | No                |
+| P1026      | Tri-Color Fusilli       | Colorful tri-color fusilli for vibrant dishes.    | $2.29 | Pasta & Grains   | No                |
+| P1027      | Sushi Rice              | Short-grain sushi rice for sushi enthusiasts.    | $3.99 | Pasta & Grains   | No                |
+| P1028      | Orzo Pasta              | Rice-shaped orzo pasta for soups and salads.     | $1.79 | Pasta & Grains   | Yes               |
+| P1029      | Quinoa & Mango Mix      | Quinoa and mango mix for a tropical twist.       | $4.99 | Pasta & Grains   | No                |
+| P1030      | White Rice               | Classic white rice for everyday meals.            | $3.49 | Pasta & Grains   | No                |
+| P1031      | Spelt Pasta             | Whole grain spelt pasta for a nutty flavor.      | $3.79 | Pasta & Grains   | No                |
+| P1032      | Jasmine Brown Rice      | A blend of jasmine and brown rice for variety.    | $4.49 | Pasta & Grains   | No                |
+| P1033      | Quinoa & Blueberry Mix  | Quinoa and blueberry mix for a fruity kick.      | $4.99 | Pasta & Grains   | No                |
+| P1034      | Linguine Pasta          | Flat linguine pasta for classic Italian dishes.   | $2.39 | Pasta & Grains   | Yes               |
+| P1035      | Farro                   | Ancient grain farro for a nutritious meal.        | $3.29 | Pasta & Grains   | No                |
+| P1036      | Angel Hair Pasta        | Delicate angel hair pasta for light sauces.      | $1.69 | Pasta & Grains   | Yes               |
+| P1037      | Quinoa & Raspberry Mix  | Quinoa and raspberry mix for a sweet treat.      | $4.99 | Pasta & Grains   | No                |
+| P1038      | Basmati & Wild Rice Mix | Blend of basmati and wild rice for variety.       | $4.99 | Pasta & Grains   | No                |
+| P1039      | Shells Pasta            | Seashell-shaped pasta for fun and tasty dishes.  | $2.09 | Pasta & Grains   | Yes               |
+| P1040      | Red Lentil Pasta        | Red lentil pasta, a protein-rich alternative.    | $3.99 | Pasta & Grains   | Yes               |
+| P1041      | Quinoa & Almond Mix     | Quinoa and almond mix for a crunchy texture.     | $4.99 | Pasta & Grains   | No                |
+| P1042      | Jasmine & Basmati Mix   | Blend of jasmine and basmati rice for variety.    | $4.99 | Pasta & Grains   | No                |
+| P1043      | Mac and Cheese Spirals  | Spiraled mac and cheese pasta for a twist.       | $2.29 | Pasta & Grains   | Yes               |
+| P1044      | Quinoa & Fig Mix        | Quinoa and fig mix for a unique flavor.          | $4.99 | Pasta & Grains   | No                |
+| P1045      | Rice Pilaf              | Classic rice pilaf for a hearty side dish.       | $2.99 | Pasta & Grains   | No                |
+| P1046      | Pappardelle Pasta        | Wide and flat pappardelle pasta for rich sauces.  | $2.59 | Pasta & Grains   | Yes               |
+| P1047      | Quinoa & Cinnamon Mix   | Quinoa and cinnamon mix for a warm treat.        | $4.99 | Pasta & Grains   | No                |
+| P1048      | Jasmine & Brown Rice Mix | Blend of jasmine and brown rice for variety.      | $4.99 | Pasta & Grains   | No                |
+| P1049      | Spinach Rotini          | Spiral-shaped rotini pasta infused with spinach. | $2.19 | Pasta & Grains   | No                |
+| P1050      | Quinoa & Date Mix       | Quinoa and date mix for a naturally sweet flavor.| $4.99 | Pasta & Grains   | No                |
+| ...        | ...                     | ...                                               | ...   | ...              | ...               |
+| P1091      | Organic Quinoa          | Organic quinoa for a protein-rich diet.           | $4.99 | Pasta & Grains   | No                |
+| P1092      | Brown Rice              | Long-grain brown rice for a wholesome meal.       | $2.99 | Pasta & Grains   | Yes               |
+| P1093      | Spaghetti Pasta         | Traditional Italian pasta for your favorite dishes.| $1.79 | Pasta & Grains   | Yes               |
+| P1094      | Black Bean Pasta        | Black bean pasta, a nutritious alternative.       | $3.79 | Pasta & Grains   | No                |
+| P1095      | Lentil Pasta            | Lentil-based pasta for a protein-packed meal.     | $3.99 | Pasta & Grains   | Yes               |
+| P1096      | Whole Wheat Penne       | Whole wheat penne pasta for a healthy choice.     | $2.49 | Pasta & Grains   | No                |
+| P1097      | Jasmine Rice            | Fragrant jasmine rice for aromatic dishes.        | $3.49 | Pasta & Grains   | No                |
+| P1098      | Quinoa & Kale Blend     | Nutrient-packed quinoa and kale blend.            | $4.29 | Pasta & Grains   | No                |
+| P1099      | Farfalle Pasta          | Bowtie-shaped farfalle pasta for variety.        | $1.99 | Pasta & Grains   | Yes               |
+| P1100      | Basmati Rice            | Aromatic basmati rice for flavorful meals.        | $4.99 | Pasta & Grains   | No                |
+| P1001      | Organic Whole Milk          | Creamy organic whole milk, pasteurized.                  | $3.99 | Dairy & Eggs    | No                |
+| P1002      | Free-Range Eggs             | Fresh free-range eggs from local farms.                  | $2.49 | Dairy & Eggs    | No                |
+| P1003      | Greek Yogurt                 | Thick and creamy Greek yogurt with honey.               | $4.49 | Dairy & Eggs    | No                |
+| P1004      | Cottage Cheese               | Low-fat cottage cheese for a healthy snack.             | $2.99 | Dairy & Eggs    | No                |
+| P1005      | Organic Butter               | Rich and creamy organic butter, unsalted.               | $5.99 | Dairy & Eggs    | No                |
+| P1006      | Almond Milk                  | Nutrient-rich almond milk, unsweetened.                 | $3.49 | Dairy & Eggs    | No                |
+| P1007      | Parmesan Cheese              | Aged Parmesan cheese, perfect for grating.              | $7.99 | Dairy & Eggs    | No                |
+| P1008      | Chocolate Milk               | Indulgent chocolate-flavored milk.                     | $2.99 | Dairy & Eggs    | No                |
+| P1009      | Organic Yogurt               | Organic fruit-flavored yogurt cups.                     | $3.79 | Dairy & Eggs    | No                |
+| P1010      | Whipped Cream                | Light and fluffy whipped cream in a can.               | $4.99 | Dairy & Eggs    | No                |
+| P1011      | Buttery Croissants           | Freshly baked buttery croissants.                      | $2.49 | Bakery          | No                |
+| P1012      | Vanilla Custard              | Smooth and creamy vanilla custard.                     | $3.29 | Dairy & Eggs    | No                |
+| P1013      | Swiss Cheese Slices          | Thin slices of mild Swiss cheese.                      | $4.99 | Dairy & Eggs    | No                |
+| P1014      | Organic Almond Butter        | Creamy organic almond butter.                          | $6.99 | Condiments & Oils | No              |
+| P1015      | Blueberry Yogurt             | Blueberry-flavored yogurt with real fruit pieces.      | $2.49 | Dairy & Eggs    | No                |
+| P1016      | Whipped Coconut Cream        | Dairy-free whipped coconut cream.                      | $4.49 | Dairy & Eggs    | No                |
+| P1017      | Lemon Curd                   | Tangy lemon curd, perfect for desserts.                | $3.99 | Condiments & Oils | No              |
+| P1018      | Organic Brown Eggs           | Organic brown eggs from free-range hens.               | $3.99 | Dairy & Eggs    | No                |
+| P1019      | Chocolate Chip Cookies       | Classic chocolate chip cookies.                        | $2.99 | Snacks          | No                |
+| P1020      | Hazelnut Spread              | Creamy hazelnut spread for toast and snacks.           | $5.49 | Condiments & Oils | No              |
+| P1021      | Coconut Yogurt               | Dairy-free coconut yogurt.                             | $4.99 | Dairy & Eggs    | No                |
+| P1022      | Buttermilk Pancake Mix       | Pancake mix with real buttermilk.                      | $3.49 | Baking          | No                |
+| P1023      | Mozzarella Cheese            | Fresh mozzarella cheese for pizza and pasta.           | $6.99 | Dairy & Eggs    | No                |
+| P1024      | Chocolate Almond Milk        | Chocolate-flavored almond milk.                         | $3.99 | Dairy & Eggs    | No                |
+| P1025      | Egg Nog Ice Cream            | Creamy egg nog-flavored ice cream.                     | $5.99 | Dairy & Eggs    | No                |
+| P1026      | Whipped Goat Cheese          | Whipped goat cheese with herbs.                        | $4.79 | Dairy & Eggs    | No                |
+| P1027      | Organic Coconut Oil          | Cold-pressed organic coconut oil.                      | $8.99 | Condiments & Oils | No              |
+| P1028      | Vanilla Bean Custard         | Rich and velvety vanilla bean custard.                | $4.49 | Dairy & Eggs    | No                |
+| P1029      | Buttermilk Biscuits          | Flaky buttermilk biscuits, ready to bake.             | $2.99 | Bakery          | No                |
+| P1030      | Raspberry Ripple Ice Cream   | Raspberry-flavored ice cream with swirls.             | $5.49 | Dairy & Eggs    | No                |
+| ...        | ...                         | ...                                                   | ...   | ...             | ...               |
+| P1091      | Blueberry Cheesecake Ice Cream | Creamy ice cream with swirls of blueberry and cheesecake.| $5.99 | Dairy & Eggs | No              |
+| P1092      | Swiss Cheese                 | Mild and nutty Swiss cheese slices.                   | $6.99 | Dairy & Eggs    | No                |
+| P1093      | Eggnog                       | Traditional holiday eggnog, rich and creamy.          | $4.49 | Dairy & Eggs    | No                |
+| P1094      | Lemon Sorbet                 | Tart and refreshing lemon sorbet.                    | $3.99 | Dairy & Eggs    | No                |
+| P1095      | Organic Whipped Butter       | Organic whipped butter, easy to spread.               | $5.99 | Dairy & Eggs    | No                |
+| P1096      | Maple Pecan Ice Cream        | Maple-flavored ice cream with pecan pieces.           | $6.49 | Dairy & Eggs    | No                |
+| P1097      | Buttermilk                   | Cultured buttermilk for baking and cooking.           | $2.49 | Dairy & Eggs    | No                |
+| P1098      | Coconut Milk                 | Creamy coconut milk, perfect for curries.             | $1.79 | Dairy & Eggs    | No                |
+| P1099      | Strawberry Milkshake         | Refreshing strawberry-flavored milkshake.             | $3.99 | Dairy & Eggs    | No                |
+| P1100      | Organic Egg Whites           | Pasteurized organic egg whites in a carton.          | $4.99 | Dairy & Eggs    | No                |
+| P1001      | Diced Tomatoes               | Freshly diced tomatoes for sauces and stews.      | $1.29 | Canned Goods   | No                |
+| P1002      | Chickpeas                     | Premium chickpeas for salads and curries.         | $1.99 | Canned Goods   | No                |
+| P1003      | Black Beans                   | Canned black beans, a versatile pantry staple.    | $1.49 | Canned Goods   | No                |
+| P1004      | Corn Kernels                  | Sweet corn kernels for salads and side dishes.    | $0.99 | Canned Goods   | No                |
+| P1005      | Tomato Sauce                  | Classic tomato sauce for pasta and pizza.         | $2.49 | Canned Goods   | No                |
+| P1006      | Pineapple Slices              | Juicy pineapple slices in syrup.                  | $1.79 | Canned Goods   | No                |
+| P1007      | Cannellini Beans              | Creamy cannellini beans for soups and salads.     | $2.29 | Canned Goods   | No                |
+| P1008      | Green Peas                    | Tender green peas, perfect for various recipes.   | $1.19 | Canned Goods   | No                |
+| P1009      | Mushroom Soup                 | Rich and savory mushroom soup.                    | $2.99 | Canned Goods   | No                |
+| P1010      | Lentils                       | Nutritious lentils for hearty soups and stews.    | $1.69 | Canned Goods   | No                |
+| P1011      | Mixed Vegetables              | Mixed vegetables for quick and easy meals.        | $1.99 | Canned Goods   | No                |
+| P1012      | Tomato Paste                  | Concentrated tomato paste for rich flavors.       | $1.49 | Canned Goods   | No                |
+| P1013      | Baked Beans                   | Classic baked beans in a savory sauce.            | $2.79 | Canned Goods   | No                |
+| P1014      | Cream of Mushroom Soup         | Creamy mushroom soup, a comforting choice.        | $3.49 | Canned Goods   | No                |
+| P1015      | Sliced Olives                 | Sliced black olives for salads and pizzas.       | $1.89 | Canned Goods   | No                |
+| P1016      | Garbanzo Beans                | Garbanzo beans for hummus and salads.            | $1.29 | Canned Goods   | No                |
+| P1017      | Minced Garlic                 | Convenient minced garlic for cooking.             | $2.49 | Canned Goods   | No                |
+| P1018      | Canned Corn                   | Sweet canned corn for side dishes.                | $1.59 | Canned Goods   | No                |
+| P1019      | Cream of Chicken Soup          | Creamy chicken soup for a quick meal.            | $2.99 | Canned Goods   | No                |
+| P1020      | Black Olive Tapenade          | Flavorful black olive tapenade for appetizers.   | $3.99 | Canned Goods   | No                |
+| ...        | ...                          | ...                                              | ...   | ...            | ...               |
+| P1091      | Minestrone Soup               | Classic minestrone soup with vegetables and pasta.| $3.49 | Canned Goods   | No                |
+| P1092      | Pickled Jalapenos             | Spicy pickled jalapenos for a flavorful kick.     | $2.79 | Canned Goods   | No                |
+| P1093      | Cream of Asparagus Soup       | Creamy asparagus soup, a gourmet delight.         | $3.99 | Canned Goods   | No                |
+| P1094      | Three Bean Salad              | Three-bean salad with a zesty dressing.           | $2.49 | Canned Goods   | No                |
+| P1095      | Canned Pineapple Chunks       | Convenient canned pineapple chunks.               | $1.89 | Canned Goods   | No                |
+| P1096      | Clam Chowder                  | Hearty clam chowder with potatoes and bacon.      | $4.29 | Canned Goods   | No                |
+| P1097      | Sweetened Condensed Milk      | Sweetened condensed milk for baking and desserts. | $2.99 | Canned Goods   | No                |
+| P1098      | Butter Beans                  | Large butter beans for soups and casseroles.      | $2.39 | Canned Goods   | No                |
+| P1099      | Vegetable Broth               | Flavorful vegetable broth for cooking.            | $1.99 | Canned Goods   | No                |
+| P1100      | Canned Apricot Halves         | Delightful canned apricot halves in syrup.        | $3.49 | Canned Goods   | No                |
+| DPF1       | Deli Chicken Caesar Wrap      | Grilled chicken, romaine lettuce, and Caesar dressing in a whole wheat wrap. | $5.49 | Deli & Prepared Foods | No                |
+| DPF2       | Mediterranean Quinoa Salad    | Quinoa salad with cherry tomatoes, cucumbers, olives, and feta cheese.       | $4.99 | Deli & Prepared Foods | No                |
+| DPF3       | Classic BLT Sandwich          | Crispy bacon, lettuce, and tomato on toasted white bread.                     | $4.29 | Deli & Prepared Foods | No                |
+| DPF4       | Caprese Panini                | Mozzarella, tomatoes, and fresh basil pressed in a warm panini.              | $6.99 | Deli & Prepared Foods | No                |
+| DPF5       | Greek Chicken Gyro            | Grilled chicken, tomatoes, onions, and tzatziki sauce in a pita.             | $7.49 | Deli & Prepared Foods | No                |
+| DPF6       | Spinach and Feta Quiche       | Flaky pastry filled with spinach, feta cheese, and eggs.                     | $5.99 | Deli & Prepared Foods | No                |
+| DPF7       | Chicken Alfredo Pizza         | Thin-crust pizza with creamy Alfredo sauce, chicken, and mozzarella.        | $8.99 | Deli & Prepared Foods | No                |
+| DPF8       | Turkey Cranberry Wrap         | Sliced turkey, cranberry sauce, and cream cheese in a whole wheat wrap.      | $6.49 | Deli & Prepared Foods | No                |
+| DPF9       | Antipasto Platter             | Assorted cured meats, cheeses, olives, and pickled vegetables.               | $12.99 | Deli & Prepared Foods | No                |
+| DPF10      | Veggie Club Sandwich          | Triple-decker sandwich with avocado, cucumber, tomato, and more.             | $5.99 | Deli & Prepared Foods | No                |
+| DPF11      | BBQ Pulled Pork Sliders       | Slow-cooked pulled pork sliders with barbecue sauce.                         | $7.99 | Deli & Prepared Foods | No                |
+| DPF12      | Chicken Caesar Pasta Salad    | Pasta salad with grilled chicken, cherry tomatoes, and Caesar dressing.      | $8.49 | Deli & Prepared Foods | No                |
+| DPF13      | Italian Sub                   | Classic Italian sub with ham, salami, pepperoni, and provolone.             | $6.29 | Deli & Prepared Foods | No                |
+| DPF14      | Veggie Spring Rolls           | Fresh spring rolls filled with colorful vegetables and tofu.                | $4.99 | Deli & Prepared Foods | No                |
+| DPF15      | Tuna Nicoise Salad            | Tuna salad with green beans, olives, tomatoes, and hard-boiled eggs.        | $7.99 | Deli & Prepared Foods | No                |
+| DPF16      | Chicken Shawarma Wrap         | Grilled chicken, lettuce, and garlic sauce in a soft wrap.                  | $6.79 | Deli & Prepared Foods | No                |
+| DPF17      | Margherita Pasta              | Pasta with cherry tomatoes, fresh mozzarella, and basil.                    | $8.99 | Deli & Prepared Foods | No                |
+| DPF18      | California Roll Sushi         | Sushi roll with crab, avocado, and cucumber.                                 | $9.49 | Deli & Prepared Foods | No                |
+| DPF19      | Roast Beef and Cheddar Panini | Roast beef, cheddar cheese, and horseradish mayo pressed in a panini.       | $7.29 | Deli & Prepared Foods | No                |
+| DPF20      | Chicken Pesto Ciabatta        | Grilled chicken, pesto, and sun-dried tomatoes on ciabatta bread.           | $6.99 | Deli & Prepared Foods | No                |
+| ...        | ...                           | ...                                               | ...   | ...                    | ...               |
+| DPF68      | Asian Noodle Salad            | Cold noodle salad with vegetables and sesame dressing.                       | $5.99 | Deli & Prepared Foods | No                |
+| DPF69      | Southwest Chicken Wrap        | Spicy grilled chicken, black beans, corn, and avocado in a wrap.            | $6.99 | Deli & Prepared Foods | No                |
+| P1001      | Frozen Pizza Margherita      | Classic frozen margherita pizza.                   | $4.99 | Frozen Foods   | No                |
+| P1002      | Halal Chicken Nuggets        | Halal-certified chicken nuggets for kids.         | $3.99 | Frozen Foods   | Yes               |
+| P1003      | Frozen Mixed Vegetables      | Convenient mix of frozen vegetables.               | $2.49 | Frozen Foods   | No                |
+| P1004      | Halal Chicken Tenders        | Crispy halal chicken tenders.                     | $5.49 | Frozen Foods   | Yes               |
+| P1005      | Vanilla Ice Cream            | Creamy vanilla ice cream in a tub.                | $3.99 | Frozen Foods   | No                |
+| P1006      | Frozen Chicken Wings         | Ready-to-cook frozen chicken wings.               | $6.99 | Frozen Foods   | No                |
+| P1007      | Chocolate Chip Cookie Dough  | Pre-cut chocolate chip cookie dough.              | $2.99 | Frozen Foods   | No                |
+| P1008      | Halal Chicken Patties        | Halal-certified chicken patties for burgers.     | $4.99 | Frozen Foods   | Yes               |
+| P1009      | Frozen Shrimp Dumplings      | Frozen shrimp dumplings for a quick snack.        | $5.49 | Frozen Foods   | No                |
+| P1010      | Mint Chocolate Chip Ice Cream| Mint-flavored chocolate chip ice cream.           | $4.99 | Frozen Foods   | No                |
+| ...        | ...                          | ...                                               | ...   | ...            | ...               |
+| P1091      | Frozen Vegetable Spring Rolls| Crispy frozen vegetable spring rolls.              | $3.79 | Frozen Foods   | No                |
+| P1092      | Chicken Alfredo Frozen Pizza | Ready-to-bake chicken alfredo pizza.              | $6.99 | Frozen Foods   | No                |
+| P1093      | Mango Sorbet                 | Refreshing mango sorbet for dessert.              | $3.99 | Frozen Foods   | No                |
+| P1094      | Halal Chicken Nuggets        | Halal-certified chicken nuggets for kids.         | $3.99 | Frozen Foods   | Yes               |
+| P1095      | Spinach and Feta Stuffed Chicken| Frozen stuffed chicken with spinach and feta.   | $7.49 | Frozen Foods   | No                |
+| P1096      | Chocolate Ice Cream Bars      | Individually wrapped chocolate ice cream bars.    | $4.29 | Frozen Foods   | No                |
+| P1097      | Halal Chicken Samosas        | Halal-certified chicken samosas.                  | $5.99 | Frozen Foods   | Yes               |
+| P1098      | Frozen Cheese Ravioli        | Frozen cheese-filled ravioli.                     | $3.99 | Frozen Foods   | No                |
+| P1099      | Vanilla Bean Frozen Yogurt   | Smooth and creamy vanilla bean frozen yogurt.     | $4.99 | Frozen Foods   | No                |
+| P1100      | Halal Chicken Strips         | Halal-certified chicken strips for salads.        | $6.49 | Frozen Foods   | Yes               |
+| P1001      | Extra Virgin Olive Oil           | Cold-pressed extra virgin olive oil.              | $7.99 | Condiments & Oils | No                |
+| P1002      | Truffle Infused Olive Oil        | Truffle-infused extra virgin olive oil.          | $9.99 | Condiments & Oils | No                |
+| P1003      | Balsamic Vinegar                 | Aged balsamic vinegar for salads and marinades.  | $5.49 | Condiments & Oils | No                |
+| P1004      | Organic Coconut Oil              | Certified organic coconut oil for cooking.       | $6.99 | Condiments & Oils | No                |
+| P1005      | Toasted Sesame Oil               | Rich and aromatic toasted sesame oil.            | $4.49 | Condiments & Oils | No                |
+| P1006      | Avocado Oil                      | Heart-healthy avocado oil for various dishes.    | $8.99 | Condiments & Oils | No                |
+| P1007      | Garlic Infused Olive Oil          | Garlic-infused olive oil for a flavorful touch.  | $5.99 | Condiments & Oils | No                |
+| P1008      | Sunflower Seed Oil               | Light and versatile sunflower seed oil.         | $3.99 | Condiments & Oils | No                |
+| P1009      | Chipotle Hot Sauce               | Smoky and spicy chipotle hot sauce.              | $2.49 | Condiments & Oils | No                |
+| P1010      | Dijon Mustard                    | Classic Dijon mustard for sandwiches and dressings.| $1.79 | Condiments & Oils | No                |
+| P1011      | Sesame Ginger Marinade           | Sweet and savory sesame ginger marinade.        | $3.29 | Condiments & Oils | No                |
+| P1012      | Walnut Oil                       | Nutty and flavorful walnut oil.                 | $5.99 | Condiments & Oils | No                |
+| P1013      | Sriracha Hot Sauce               | Spicy sriracha hot sauce for a kick.           | $2.99 | Condiments & Oils | No                |
+| P1014      | Lemon Pepper Seasoning           | Zesty lemon pepper seasoning for seasoning.     | $2.79 | Condiments & Oils | No                |
+| P1015      | Avocado Lime Dressing            | Creamy avocado and lime dressing.               | $3.29 | Condiments & Oils | No                |
+| P1016      | Black Truffle Salt               | Gourmet black truffle-infused sea salt.         | $5.99 | Condiments & Oils | No                |
+| P1017      | Raspberry Balsamic Glaze         | Sweet and tangy raspberry balsamic glaze.       | $4.99 | Condiments & Oils | No                |
+| P1018      | Roasted Garlic Aioli             | Roasted garlic aioli for dipping and spreading. | $2.79 | Condiments & Oils | No                |
+| P1019      | Lemon Herb Infused Oil           | Lemon and herb-infused oil for salads and cooking.| $4.49 | Condiments & Oils | No                |
+| P1020      | Mango Chili Hot Sauce            | Spicy mango chili hot sauce for a tropical kick.| $3.99 | Condiments & Oils | No                |
+| P1021      | Cilantro Lime Dressing           | Zesty cilantro and lime dressing.               | $2.99 | Condiments & Oils | No                |
+| P1022      | White Truffle Olive Oil          | White truffle-infused olive oil for a delicate flavor.| $7.99 | Condiments & Oils | No                |
+| P1023      | Smoked Paprika                  | Premium smoked paprika for a smoky flavor.      | $2.49 | Condiments & Oils | No                |
+| P1024      | Honey Mustard Dipping Sauce      | Sweet and tangy honey mustard dipping sauce.    | $3.49 | Condiments & Oils | No                |
+| P1025      | Maple Syrup Infused Balsamic     | Balsamic vinegar infused with maple syrup.      | $5.49 | Condiments & Oils | No                |
+| P1026      | Avocado Basil Pesto             | Pesto sauce with the richness of avocado and basil.| $4.99 | Condiments & Oils | No                |
+| P1027      | Hot Pepper Infused Vinegar       | Vinegar infused with hot peppers for heat.      | $3.79 | Condiments & Oils | No                |
+| P1028      | Sweet Thai Chili Sauce           | Sweet and spicy Thai chili sauce.               | $2.99 | Condiments & Oils | No                |
+| P1029      | Herb Infused Sunflower Oil       | Sunflower oil infused with aromatic herbs.      | $4.99 | Condiments & Oils | No                |
+| P1030      | Garlic Parmesan Wing Sauce       | Wing sauce with the bold flavors of garlic and parmesan.| $3.99 | Condiments & Oils | No                |
+| ...        | ...                             | ...                                               | ...   | ...               | ...               |
+| P1091      | Avocado Lime Dressing            | Creamy avocado and lime dressing.               | $3.29 | Condiments & Oils | No                |
+| P1092      | Black Truffle Salt               | Gourmet black truffle-infused sea salt.         | $5.99 | Condiments & Oils | No                |
+| P1093      | Raspberry Balsamic Glaze         | Sweet and tangy raspberry balsamic glaze.       | $4.99 | Condiments & Oils | No                |
+| P1094      | Roasted Garlic Aioli             | Roasted garlic aioli for dipping and spreading. | $2.79 | Condiments & Oils | No                |
+| P1095      | Lemon Herb Infused Oil           | Lemon and herb-infused oil for salads and cooking.| $4.49 | Condiments & Oils | No                |
+| P1096      | Mango Chili Hot Sauce            | Spicy mango chili hot sauce for a tropical kick.| $3.99 | Condiments & Oils | No                |
+| P1097      | Cilantro Lime Dressing           | Zesty cilantro and lime dressing.               | $2.99 | Condiments & Oils | No                |
+| P1098      | White Truffle Olive Oil          | White truffle-infused olive oil for a delicate flavor.| $7.99 | Condiments & Oils | No                |
+| P1099      | Smoked Paprika                  | Premium smoked paprika for a smoky
+| B1         | Sparkling Water             | Refreshing sparkling water, assorted flavors.    | $0.99 | Beverages   | No                |
+| B2         | Mango Tango Juice           | Exotic mango tango juice blend.                  | $2.49 | Beverages   | No                |
+| B3         | Pineapple Juice             | Refreshing pineapple juice, 100% natural.       | $2.99 | Beverages   | No                |
+| B4         | Orange Juice                | Freshly squeezed orange juice.                   | $3.49 | Beverages   | No                |
+| B5         | Green Tea                   | Traditional green tea, antioxidant-rich.        | $1.79 | Beverages   | No                |
+| B6         | Iced Coffee                 | Chilled iced coffee for a pick-me-up.           | $2.99 | Beverages   | No                |
+| B7         | Coconut Water               | Hydrating coconut water, all-natural.           | $1.99 | Beverages   | No                |
+| B8         | Lemonade                    | Classic lemonade for a tangy refreshment.       | $1.49 | Beverages   | No                |
+| B9         | Ginger Ale                  | Sparkling ginger ale, perfect mixer.             | $1.99 | Beverages   | No                |
+| B10        | Apple Cider                 | Freshly pressed apple cider.                    | $3.99 | Beverages   | No                |
+| B11        | Cranberry Juice             | Tart cranberry juice, 100% pure.                | $2.79 | Beverages   | No                |
+| B12        | Iced Tea                     | Sweetened iced tea, great for hot days.          | $1.29 | Beverages   | No                |
+| B13        | Coconut Milk                | Rich and creamy coconut milk for cooking.       | $1.79 | Beverages   | No                |
+| B14        | Mango Lassi                 | Traditional mango lassi drink.                  | $2.99 | Beverages   | No                |
+| B15        | Sports Drink                | Electrolyte-rich sports drink for hydration.    | $1.49 | Beverages   | No                |
+| B16        | Almond Milk                 | Nutty almond milk, dairy-free alternative.     | $2.49 | Beverages   | No                |
+| B17        | Peppermint Tea              | Soothing peppermint tea, caffeine-free.         | $1.99 | Beverages   | No                |
+| B18        | Fruit Punch                 | Tropical fruit punch with a splash of citrus.   | $1.99 | Beverages   | No                |
+| B19        | Cold Brew Coffee            | Smooth and strong cold brew coffee.              | $3.99 | Beverages   | No                |
+| B20        | Hibiscus Infusion           | Floral hibiscus infusion, caffeine-free.        | $2.29 | Beverages   | No                |
+| B21        | Lemon Ginger Tea            | Zesty lemon ginger tea, immune-boosting.        | $1.79 | Beverages   | No                |
+| B22        | Tomato Juice                | Pure tomato juice, great for cocktails.         | $1.99 | Beverages   | No                |
+| B23        | Green Smoothie               | Healthy green smoothie with kale and spinach.   | $4.49 | Beverages   | No                |
+| B24        | Coconut Chai Latte          | Creamy coconut chai latte, lightly spiced.      | $3.99 | Beverages   | No                |
+| B25        | Iced Matcha Latte           | Refreshing iced matcha latte.                   | $4.99 | Beverages   | No                |
+| B26        | Blueberry Lemonade          | Sweet and tangy blueberry lemonade.             | $2.49 | Beverages   | No                |
+| B27        | Espresso                    | Strong and aromatic espresso shot.              | $1.29 | Beverages   | No                |
+| B28        | Acai Berry Smoothie         | Acai berry smoothie with granola and fruit.     | $6.99 | Beverages   | No                |
+| B29        | Chocolate Milk              | Creamy chocolate-flavored milk.                 | $2.99 | Beverages   | No                |
+| B30        | Chai Latte                  | Spiced chai latte, perfect for cozy moments.    | $3.49 | Beverages   | No                |
+| ...        | ...                         | ...                                              | ...   | ...         | ...               |
+| B971       | Matcha Green Tea Latte      | Creamy matcha green tea latte.                  | $4.79 | Beverages   | No                |
+| B972       | Elderflower Lemonade        | Refreshing elderflower-infused lemonade.        | $3.29 | Beverages   | No                |
+| B973       | Watermelon Juice            | Juicy watermelon juice, perfect for summer.     | $2.99 | Beverages   | No                |
+| B974       | Raspberry Iced Tea          | Sweet and fruity raspberry iced tea.            | $1.99 | Beverages   | No                |
+| B975       | Turmeric Latte              | Golden turmeric latte with warm spices.         | $3.99 | Beverages   | No                |
+| B976       | Cucumber Mint Infusion      | Cooling cucumber mint infusion.                 | $2.49 | Beverages   | No                |
+| B977       | Cranberry Lemon Spritzer    | Fizzy cranberry lemon spritzer.                 | $1.79 | Beverages   | No                |
+| B978       | Dragon Fruit Smoothie       | Vibrant dragon fruit smoothie blend.            | $4.99 | Beverages   | No                |
+| B979       | Ginger Peach Iced Tea       | Zesty ginger peach iced tea.                    | $2.29 | Beverages   | No                |
+| B980       | Coconut Berry Bliss Smoothie| Tropical coconut berry bliss smoothie.          | $5.49 | Beverages   | No                |
+| B981       | Avocado Smoothie            | Creamy avocado smoothie with a hint of lime.    | $3.99 | Beverages   | No                |
+| B982       | Honeydew Melon Juice        | Sweet and refreshing honeydew melon juice.      | $2.79 | Beverages   | No                |
+| B983       | Blue Butterfly Pea Tea      | Exotic blue butterfly pea flower tea.           | $1.99 | Beverages   | No                |
+| B984       | Hibiscus Rose Infusion      | Floral hibiscus rose infusion.                  | $2.99 | Beverages   | No                |
+| B985       | Chocolate Banana Smoothie   | Indulgent chocolate banana smoothie.            | $4.49 | Beverages   | No                |
+| B986       | Matcha Coconut Shake        | Creamy matcha coconut shake.                    | $3.79 | Beverages   | No                |
+| B987       | Pineapple Mint Cooler       | Refreshing pineapple mint cooler.               | $2.49 | Beverages   | No                |
+| B988       | Mango Passionfruit Splash   | Tropical mango passionfruit splash.             | $3.29 | Beverages   | No                |
+| B989       | Green Apple Kombucha        | Crisp green apple kombucha.                     | $2.99 | Beverages   | No                |
+| B990       | Raspberry Almond Smoothie   | Nutty raspberry almond smoothie.                | $4.99 | Beverages   | No                |
+| B991       | Peach Basil Lemonade        | Sweet peach basil lemonade.                     | $2.79 | Beverages   | No                |
+| B992       | Spicy Ginger Turmeric Tea   | Spicy ginger turmeric tea blend.                | $1.99 | Beverages   | No                |
+| B993       | Kiwi Pineapple Quencher    | Zesty kiwi pineapple thirst quencher.          | $3.49 | Beverages   | No                |
+| B994       | Blackberry Mint Mojito      | Refreshing blackberry mint mojito.              | $2.99 | Beverages   | No                |
+| B995       | Lavender Lemonade           | Floral lavender-infused lemonade.               | $3.99 | Beverages   | No                |
+| B996       | Passionfruit Iced Coffee    | Tropical passionfruit iced coffee.              | $4.49 | Beverages   | No                |
+| B997       | Watermelon Mint Fresca      | Cool watermelon mint fresca.                    | $2.29 | Beverages   | No                |
+| B998       | Blueberry Hibiscus Cooler   | Fruity blueberry hibiscus cooler.               | $3.79 | Beverages   | No                |
+| B999       | Raspberry Vanilla Smoothie  | Creamy raspberry vanilla smoothie.              | $4.29 | Beverages   | No                |
+| B1000      | Green Tea Coconut Fusion    | Unique green tea coconut fusion.                | $2.99 | Beverages   | No                |
+| S1         | Crunchy Potato Chips       | Classic potato chips with a satisfying crunch.    | $2.99 | Snacks   | No                |
+| S2         | Chocolate Covered Pretzels | Salty pretzels coated in smooth milk chocolate.   | $3.49 | Snacks   | No                |
+| S3         | Mixed Nuts                 | Assorted mixed nuts for a healthy snack.          | $4.99 | Snacks   | No                |
+| S4         | Cheese Puffs               | Cheesy and crunchy puffed corn snacks.            | $1.99 | Snacks   | No                |
+| S5         | Trail Mix                  | Energy-boosting trail mix with nuts and dried fruit.| $5.99 | Snacks | No                |
+| S6         | Rice Crackers              | Light and crispy rice crackers.                   | $2.49 | Snacks   | No                |
+| S7         | Popcorn                    | Classic buttered popcorn for movie nights.        | $1.79 | Snacks   | No                |
+| S8         | Fruit Gummies              | Chewy and fruity gummy snacks.                   | $2.29 | Snacks   | No                |
+| S9         | Tortilla Chips             | Crispy tortilla chips for dipping.               | $3.99 | Snacks   | No                |
+| S10        | Pretzel Sticks             | Salted pretzel sticks for snacking.              | $2.19 | Snacks   | No                |
+| ...        | ...                       | ...                                               | ...   | ...      | ...               |
+| S91        | Dark Chocolate Almonds     | Almonds coated in rich dark chocolate.            | $4.79 | Snacks   | No                |
+| S92        | Veggie Chips               | Assorted vegetable chips for a crunchy treat.     | $3.49 | Snacks   | No                |
+| S93        | Chocolate Covered Berries  | Dried berries enrobed in smooth milk chocolate.   | $5.99 | Snacks   | No                |
+| S94        | Pretzel Nuggets            | Bite-sized pretzel nuggets for snacking.         | $2.99 | Snacks   | No                |
+| S95        | Honey Roasted Cashews      | Cashews glazed with sweet honey.                 | $6.49 | Snacks   | No                |
+| S96        | Caramel Popcorn            | Sweet and crunchy caramel-flavored popcorn.      | $3.29 | Snacks   | No                |
+| S97        | Veggie Straws              | Colorful veggie straws for a light snack.        | $2.79 | Snacks   | No                |
+| S98        | Peanut Butter Cups         | Smooth peanut butter cups with a chocolate shell.| $4.49 | Snacks | No                |
+| S99        | Chocolate Chip Cookies     | Classic chocolate chip cookies for dessert.      | $2.49 | Snacks   | No                |
+| S100       | Roasted Chickpeas          | Spiced and roasted chickpeas for a savory snack. | $3.99 | Snacks   | No                |
+| P1001      | Wild-Caught Salmon Fillets | Premium wild-caught salmon fillets.                | $9.99 | Seafood  | No                |
+| P1002      | Jumbo Shrimp               | Succulent jumbo shrimp for your favorite recipes. | $12.99 | Seafood  | No                |
+| P1003      | Atlantic Cod               | Fresh Atlantic cod, perfect for grilling.          | $8.49 | Seafood  | No                |
+| P1004      | Lobster Tails              | Indulgent lobster tails for special occasions.     | $19.99 | Seafood  | No                |
+| P1005      | Calamari Rings             | Crispy calamari rings, great as an appetizer.      | $7.99  | Seafood  | No                |
+| P1006      | Alaskan King Crab Legs     | Alaskan king crab legs, a seafood delicacy.        | $29.99 | Seafood  | No                |
+| P1007      | Ahi Tuna Steaks            | Sushi-grade ahi tuna steaks for searing.          | $14.99 | Seafood  | No                |
+| P1008      | Mussels in White Wine Sauce | Mussels in a savory white wine and garlic sauce. | $10.99 | Seafood  | No                |
+| P1009      | Smoked Salmon              | Delicate smoked salmon, perfect for brunch.        | $11.99 | Seafood  | No                |
+| P1010      | Shrimp Scampi              | Shrimp scampi with garlic and lemon.              | $13.99 | Seafood  | No                |
+| ...        | ...                        | ...                                               | ...   | ...      | ...               |
+| P1091      | Grilled Swordfish Steaks   | Grilled swordfish steaks with lemon and herbs.    | $15.99 | Seafood  | No                |
+| P1092      | Seafood Paella             | Ready-to-cook seafood paella with saffron rice.   | $18.99 | Seafood  | No                |
+| P1093      | Coconut Shrimp             | Crunchy coconut shrimp with sweet chili sauce.    | $9.99  | Seafood  | No                |
+| P1094      | Lobster Bisque             | Creamy lobster bisque for a luxurious soup.       | $7.99  | Seafood  | No                |
+| P1095      | Lemon Herb Tilapia         | Tilapia fillets seasoned with lemon and herbs.    | $6.99  | Seafood  | No                |
+| P1096      | Grilled Oysters            | Oysters grilled to perfection with garlic butter. | $16.99 | Seafood  | No                |
+| P1097      | Cajun Crawfish Boil        | Cajun-style crawfish boil with spices and corn.   | $14.99 | Seafood  | No                |
+| P1098      | Teriyaki Glazed Salmon     | Teriyaki glazed salmon fillets for a sweet twist. | $11.99 | Seafood  | No                |
+| P1099      | Lobster Mac and Cheese     | Lobster mac and cheese, a gourmet comfort dish.  | $12.99 | Seafood  | No                |
+| P1100      | Coconut Lime Shrimp        | Coconut lime shrimp skewers for a tropical flair. | $10.99 | Seafood  | No                |
+| P1001      | Organic Granola         | Nutty and wholesome organic granola.              | $4.99 | Breakfast | No                |
+| P1002      | Blueberry Muffins       | Freshly baked blueberry muffins.                  | $3.49 | Breakfast | No                |
+| P1003      | Maple Syrup Pancake Mix | Pancake mix with pure maple syrup.                | $5.99 | Breakfast | No                |
+| P1004      | Greek Yogurt Parfait    | Greek yogurt parfait with mixed berries.         | $4.49 | Breakfast | No                |
+| P1005      | Avocado Toast           | Avocado toast with cherry tomatoes.               | $5.49 | Breakfast | No                |
+| P1006      | Bagels with Cream Cheese | Classic bagels served with cream cheese.          | $2.99 | Breakfast | No                |
+| P1007      | Cinnamon Raisin Bread   | Sweet and savory cinnamon raisin bread.          | $3.79 | Breakfast | No                |
+| P1008      | Fruit Smoothie Bowl      | Refreshing fruit smoothie bowl with granola.     | $6.99 | Breakfast | No                |
+| P1009      | Belgian Waffles          | Light and fluffy Belgian waffles.                | $4.99 | Breakfast | No                |
+| P1010      | Breakfast Burrito       | Hearty breakfast burrito with eggs and sausage.  | $5.49 | Breakfast | No                |
+| ...        | ...                     | ...                                               | ...   | ...       | ...               |
+| P1091      | Chia Seed Pudding       | Chia seed pudding with assorted flavors.         | $3.49 | Breakfast | No                |
+| P1092      | Mixed Berry Pancakes    | Pancakes loaded with mixed berries.              | $4.79 | Breakfast | No                |
+| P1093      | Oatmeal with Berries    | Oatmeal topped with fresh berries.               | $2.99 | Breakfast | No                |
+| P1094      | Breakfast Sausage Links | Flavorful breakfast sausage links.               | $3.99 | Breakfast | Yes               |
+| P1095      | Apple Cinnamon Muffins  | Moist and flavorful apple cinnamon muffins.      | $3.49 | Breakfast | No                |
+| P1096      | Breakfast Wrap           | Healthy breakfast wrap with veggies and eggs.    | $4.99 | Breakfast | No                |
+| P1097      | Nutella Stuffed Pancakes | Fluffy pancakes stuffed with Nutella.            | $5.99 | Breakfast | No                |
+| P1098      | Acai Berry Bowl         | Acai berry bowl with granola and fruit.          | $6.99 | Breakfast | No                |
+| P1099      | Croissant with Jam       | Buttery croissant served with jam.               | $2.49 | Breakfast | No                |
+| P1100      | Matcha Chia Pudding     | Matcha-flavored chia seed pudding.               | $4.49 | Breakfast | No                |
+| B101       | All-Purpose Flour      | Premium quality all-purpose flour for baking.    | $2.99 | Baking    | No                |
+| B102       | Granulated Sugar       | Fine granulated sugar for sweetening your recipes.| $1.49 | Baking    | Yes               |
+| B103       | Baking Powder          | Double-acting baking powder for fluffy baked goods.| $1.99 | Baking  | Yes               |
+| B104       | Vanilla Extract        | Pure vanilla extract for rich flavor in desserts.| $4.99 | Baking    | Yes               |
+| B105       | Chocolate Chips        | Semi-sweet chocolate chips for cookies and more. | $3.49 | Baking    | No                |
+| B106       | Unsalted Butter        | Premium unsalted butter for baking perfection.   | $4.99 | Baking    | No                |
+| B107       | Cocoa Powder           | High-quality cocoa powder for decadent treats.    | $3.99 | Baking    | Yes               |
+| B108       | Brown Sugar            | Dark brown sugar for a rich and moist texture.   | $2.49 | Baking    | Yes               |
+| B109       | Almond Flour           | Finely ground almond flour for gluten-free baking.| $6.99 | Baking  | No                |
+| B110       | Baking Soda            | Sodium bicarbonate for leavening in baking.      | $1.29 | Baking    | Yes               |
+| B111       | Confectioners' Sugar    | Powdered sugar for making icing and frosting.    | $2.79 | Baking    | Yes               |
+| B112       | Yeast                  | Active dry yeast for leavening bread and rolls. | $2.99 | Baking    | Yes               |
+| B113       | Honey                  | Natural honey for sweetness in baked goods.      | $5.49 | Baking    | No                |
+| B114       | Almond Extract         | Almond extract for a nutty flavor in desserts.  | $3.99 | Baking    | Yes               |
+| B115       | Shortening             | Vegetable shortening for flaky pie crusts.      | $2.99 | Baking    | No                |
+| B116       | Cornstarch             | Cornstarch for thickening sauces and desserts.  | $1.49 | Baking    | Yes               |
+| B117       | Lemon Zest             | Zested lemon for a citrusy kick in baking.      | $2.49 | Baking    | No                |
+| B118       | Nutmeg                 | Ground nutmeg for a warm and aromatic touch.    | $3.29 | Baking    | No                |
+| B119       | Molasses               | Molasses for rich and robust flavor in baking.  | $4.49 | Baking    | No                |
+| B120       | Cream of Tartar        | Cream of tartar for stabilizing egg whites.     | $1.79 | Baking    | Yes               |
+| B121       | Maple Syrup            | Pure maple syrup, a natural sweetener for baking.| $7.49 | Baking  | No                |
+| B122       | Cake Flour             | Soft wheat cake flour for delicate desserts.     | $3.99 | Baking    | No                |
+| B123       | Cinnamon               | Ground cinnamon for warm and spicy flavor.       | $2.29 | Baking    | Yes               |
+| B124       | Coconut Oil            | Organic coconut oil for a hint of coconut flavor.| $5.99 | Baking  | No                |
+| B125       | Agave Nectar           | Agave nectar as a natural sweetener alternative.| $4.99 | Baking  | No                |
+| B126       | Orange Zest            | Zested orange for a citrus twist in baking.      | $2.49 | Baking    | No                |
+| B127       | Ghee                   | Clarified butter (ghee) for a rich flavor.      | $7.99 | Baking    | No                |
+| B128       | Poppy Seeds            | Poppy seeds for texture in baked goods.         | $2.99 | Baking    | Yes               |
+| B129       | Meringue Powder        | Meringue powder for stable royal icing.         | $4.49 | Baking    | Yes               |
+| B130       | Rum Extract            | Rum extract for a hint of rum flavor in desserts.| $3.99 | Baking  | No                |
+| ...        | ...                    | ...                                              | ...   | ...       | ...               |
+| B991       | Coconut Flour          | Gluten-free coconut flour for baking.           | $5.99 | Baking  | No                |
+| B992       | Matcha Powder          | High-quality matcha powder for unique desserts. | $9.99 | Baking  | Yes               |
+| B993       | Pecan Pieces           | Chopped pecan pieces for added crunch.          | $6.49 | Baking  | No                |
+| B994       | Espresso Powder        | Espresso powder for a rich coffee flavor.       | $4.99 | Baking  | No                |
+| B995       | Peppermint Extract      | Peppermint extract for a refreshing taste.      | $3.99 | Baking  | Yes               |
+| B996       | Pistachio Flour         | Finely ground pistachio flour for unique recipes.| $8.99 | Baking | No                |
+| B997       | Lavender Extract        | Lavender extract for a floral touch in baking.  | $5.99 | Baking  | No                |
+| B998       | White Chocolate Chips   | Sweet and creamy white chocolate chips.         | $4.49 | Baking  | No                |
+| B999       | Rosewater               | Rosewater for a delicate floral essence.        | $6.99 | Baking  | No                |
+| B1000      | Hazelnut Flour          | Hazelnut flour for a nutty flavor in baking.    | $7.49 | Baking  | No                |
+| C1         | Chocolate Bar              | Rich and creamy milk chocolate bar.                | $1.99 | Confectionery  | No                |
+| C2         | Gummy Bears                | Assorted fruity gummy bears.                       | $0.99 | Confectionery  | Yes               |
+| C3         | Caramel Popcorn            | Buttery caramel popcorn, a classic snack.          | $2.49 | Confectionery  | No                |
+| C4         | Jelly Beans                | Colorful and flavorful jelly beans.                | $1.49 | Confectionery  | Yes               |
+| C5         | Licorice Twists            | Sweet and chewy black licorice twists.             | $1.79 | Confectionery  | Yes               |
+| C6         | Marshmallow Clouds         | Soft and fluffy marshmallows in assorted shapes.   | $1.29 | Confectionery  | Yes               |
+| C7         | Peppermint Bark            | Layers of white and dark chocolate with peppermint.| $3.99 | Confectionery  | No                |
+| C8         | Fruit Lollipops            | Colorful fruit-flavored lollipops.                 | $0.79 | Confectionery  | Yes               |
+| C9         | Chocolate Covered Pretzels | Salty pretzels coated in smooth chocolate.         | $2.99 | Confectionery  | No                |
+| C10        | Cotton Candy               | Fluffy and sweet cotton candy in various flavors.  | $1.49 | Confectionery  | Yes               |
+| ...        | ...                        | ...                                               | ...   | ...            | ...               |
+| C91        | Tiramisu Truffles          | Coffee-flavored truffles with a hint of cocoa.     | $4.99 | Confectionery  | No                |
+| C92        | Blue Raspberry Gummies     | Tangy blue raspberry-flavored gummy candies.       | $1.29 | Confectionery  | Yes               |
+| C93        | White Chocolate Macadamia  | White chocolate-covered macadamia nuts.            | $3.79 | Confectionery  | No                |
+| C94        | Red Velvet Cake Pops       | Bite-sized red velvet cake pops.                   | $2.49 | Confectionery  | No                |
+| C95        | Citrus Hard Candies        | Assorted citrus-flavored hard candies.             | $1.99 | Confectionery  | Yes               |
+| C96        | Almond Joy Bars            | Coconut and almond-filled chocolate bars.          | $2.79 | Confectionery  | No                |
+| C97        | Raspberry Cheesecake Bites | Mini cheesecake bites with a raspberry twist.      | $3.49 | Confectionery  | No                |
+| C98        | Dark Chocolate Espresso    | Dark chocolate-covered espresso beans.            | $4.49 | Confectionery  | No                |
+| C99        | Tropical Fruit Gummies     | Gummy candies with a tropical fruit medley.        | $1.79 | Confectionery  | Yes               |
+| C100       | Maple Pecan Fudge          | Creamy fudge with a blend of maple and pecan.     | $2.99 | Confectionery  | No                |
+| C1         | All-Purpose Cleaner         | Multi-surface cleaner for a sparkling home.       | $4.99 | Cleaning Supplies | Yes          |
+| C2         | Disinfectant Wipes          | Antibacterial wipes for quick and easy cleaning.  | $3.49 | Cleaning Supplies | Yes          |
+| C3         | Glass Cleaner               | Streak-free glass cleaner for a crystal-clear view.| $2.99 | Cleaning Supplies | No           |
+| C4         | Antibacterial Hand Soap     | Germ-killing hand soap for clean hands.           | $1.99 | Cleaning Supplies | Yes          |
+| C5         | Broom and Dustpan Set       | Sweep away dirt and dust with this handy set.     | $9.99 | Cleaning Supplies | No           |
+| C6         | Laundry Detergent           | Powerful detergent for fresh and clean clothes.   | $7.49 | Cleaning Supplies | Yes          |
+| C7         | Microfiber Cleaning Cloths  | Reusable cloths for streak-free cleaning.         | $5.99 | Cleaning Supplies | Yes          |
+| C8         | Mop and Bucket Combo        | Easy-to-use mop and bucket for sparkling floors.  | $12.99| Cleaning Supplies | No           |
+| C9         | Toilet Bowl Cleaner         | Tough on stains, gentle on toilets.               | $3.29 | Cleaning Supplies | Yes          |
+| C10        | Trash Bags                  | Durable trash bags for a clean and tidy home.     | $6.49 | Cleaning Supplies | Yes          |
+| ...        | ...                        | ...                                              | ...   | ...               | ...          |
+| C91        | Fabric Freshener            | Refreshing spray to eliminate odors from fabrics.| $2.49 | Cleaning Supplies | Yes          |
+| C92        | Oven Cleaner               | Powerful cleaner for a spotless oven.             | $4.99 | Cleaning Supplies | No           |
+| C93        | Stainless Steel Polish      | Restore shine to stainless steel surfaces.        | $3.99 | Cleaning Supplies | Yes          |
+| C94        | Dishwasher Detergent        | Dishwashing pods for sparkling clean dishes.      | $8.99 | Cleaning Supplies | Yes          |
+| C95        | Shoe Deodorizer Spray       | Keep your shoes smelling fresh and clean.        | $1.99 | Cleaning Supplies | Yes          |
+| C96        | Electronic Screen Cleaner   | Gentle cleaner for screens and electronics.       | $5.49 | Cleaning Supplies | Yes          |
+| C97        | Drain Cleaner              | Effective solution for clearing clogged drains.   | $6.99 | Cleaning Supplies | No           |
+| C98        | Grout and Tile Cleaner      | Tough on grime, gentle on tiles.                  | $4.49 | Cleaning Supplies | Yes          |
+| C99        | Mold and Mildew Remover     | Powerful formula to eliminate mold and mildew.    | $7.99 | Cleaning Supplies | Yes          |
+| C100       | Air Freshener               | Pleasant scents for a fresh and inviting home.   | $2.99 | Cleaning Supplies | Yes          |
+| PC1        | Refreshing Lavender Soap    | Gentle lavender-scented soap for a relaxing shower. | $2.99 | Personal Care   | No      |
+| PC2        | Organic Aloe Vera Shampoo   | Nourishing shampoo with organic aloe vera extract.  | $8.49 | Hair Care       | Yes     |
+| PC3        | Bamboo Charcoal Toothpaste  | Whitening toothpaste with natural bamboo charcoal.  | $4.99 | Oral Care       | No      |
+| PC4        | Lavender Essential Oil      | Pure lavender essential oil for aromatherapy.       | $12.99 | Aromatherapy    | Yes     |
+| PC5        | Vitamin C Face Serum        | Revitalizing face serum with vitamin C.             | $14.99 | Skin Care       | No      |
+| PC6        | Natural Deodorant Stick     | Aluminum-free deodorant with a fresh scent.         | $6.49 | Deodorants      | Yes     |
+| PC7        | Bamboo Toothbrush Set       | Eco-friendly toothbrush set made from bamboo.       | $3.99 | Oral Care       | Yes     |
+| PC8        | Tea Tree Oil Shaving Cream  | Shaving cream enriched with tea tree oil.           | $5.99 | Shaving         | No      |
+| PC9        | Organic Lavender Lotion     | Hydrating body lotion with organic lavender.        | $7.99 | Body Care       | Yes     |
+| PC10       | Citrus Burst Body Wash      | Invigorating body wash with a burst of citrus.      | $4.49 | Body Care       | No      |
+| ...        | ...                         | ...                                                 | ...   | ...             | ...     |
+| PC91       | Gentle Baby Shampoo         | Tear-free shampoo for delicate baby hair.           | $6.99 | Baby Care       | Yes     |
+| PC92       | Men's Energizing Cologne    | Energizing cologne with a masculine scent.         | $18.99 | Fragrances      | No      |
+| PC93       | Herbal Relaxation Bath Salts| Soothing bath salts infused with herbal extracts.   | $9.99 | Bath & Body     | Yes     |
+| PC94       | Coconut Oil Hair Mask       | Deep conditioning hair mask with coconut oil.     | $12.49 | Hair Care       | Yes     |
+| PC95       | Rejuvenating Rose Toner     | Rose-infused toner for refreshing the skin.        | $11.99 | Skin Care       | Yes     |
+| PC96       | Natural Insect Repellent    | DEET-free insect repellent for outdoor protection.| $5.49 | Outdoor Care    | Yes     |
+| PC97       | Charcoal Infused Face Scrub | Exfoliating face scrub with activated charcoal.    | $7.99 | Skin Care       | No      |
+| PC98       | Cooling Aloe Vera Gel       | Cooling gel with aloe vera for sunburn relief.     | $4.99 | Sun Care        | No      |
+| PC99       | Organic Cotton Swabs        | Biodegradable cotton swabs made from organic cotton.| $2.49 | Accessories     | Yes     |
+| PC100      | Scented Drawer Liners       | Lavender-scented liners for fresh drawers.         | $3.99 | Home Fragrance  | No      |
+| BC1        | Baby Shampoo               | Gentle and tear-free shampoo for baby's hair.     | $4.99 | Baby Care  | No                |
+| BC2        | Diaper Rash Cream          | Soothing cream for preventing and treating rashes. | $3.49 | Baby Care  | No                |
+| BC3        | Baby Wipes                 | Fragrance-free wipes for gentle cleaning.          | $2.99 | Baby Care  | No                |
+| BC4        | Baby Lotion                | Moisturizing lotion for baby's soft skin.          | $5.99 | Baby Care  | No                |
+| BC5        | Baby Powder                | Talc-free powder for keeping baby's skin dry.      | $2.79 | Baby Care  | No                |
+| BC6        | Baby Bath Tub              | Portable and comfortable tub for baby baths.       | $12.99| Baby Care  | No                |
+| BC7        | Pacifier Set               | BPA-free pacifiers in assorted designs.           | $3.49 | Baby Care  | No                |
+| BC8        | Baby Onesies (Pack of 5)   | Soft and cozy onesies for everyday wear.           | $14.99| Baby Care  | No                |
+| BC9        | Baby Blanket               | Warm and plush blanket for naptime.                | $7.99 | Baby Care  | No                |
+| BC10       | Baby Nail Clippers         | Safe and easy-to-use nail clippers for infants.   | $2.49 | Baby Care  | No                |
+| ...        | ...                        | ...                                               | ...   | ...        | ...               |
+| BC91       | Baby Sippy Cup (Set of 2)  | Spill-proof sippy cups for transitioning to solids.| $6.99 | Baby Care  | No                |
+| BC92       | Baby Hair Brush            | Soft-bristle brush for grooming baby's hair.       | $1.99 | Baby Care  | No                |
+| BC93       | Baby Socks (Set of 6)      | Cute and comfortable socks for tiny feet.          | $5.99 | Baby Care  | No                |
+| BC94       | Baby Sunscreen SPF 50      | High SPF sunscreen for protecting baby's skin.     | $8.49 | Baby Care  | No                |
+| BC95       | Baby Teething Toys (Set of 3)| BPA-free teething toys for soothing gums.        | $9.99 | Baby Care  | No                |
+| BC96       | Baby Sleepsack             | Cozy sleepsack for a comfortable night's sleep.    | $11.99| Baby Care  | No                |
+| BC97       | Baby Nasal Aspirator       | Gentle aspirator for clearing baby's nasal passages.| $4.29 | Baby Care  | No                |
+| BC98       | Baby Activity Gym          | Colorful and interactive gym for playtime.         | $19.99| Baby Care  | No                |
+| BC99       | Baby Milestone Book        | Keepsake book for recording baby's milestones.     | $7.49 | Baby Care  | No                |
+| BC100      | Baby Diaper Bag            | Stylish and spacious diaper bag for on-the-go.     | $22.99| Baby Care  | No                |
+| PS1        | Premium Dog Food              | Nutrient-rich dog food for a healthy pet.           | $12.99 | Pet Supplies      | No      |
+| PS2        | Catnip Toy                    | Interactive catnip toy for playful cats.            | $5.49  | Pet Supplies      | No      |
+| PS3        | Fish Tank Starter Kit          | Complete aquarium kit for beginner fish enthusiasts.| $29.99 | Pet Supplies      | No      |
+| PS4        | Small Animal Bedding          | Soft bedding for small animals' comfort.            | $3.99  | Pet Supplies      | Yes     |
+| PS5        | Bird Cage                      | Spacious bird cage for a happy feathered friend.    | $19.99 | Pet Supplies      | No      |
+| PS6        | Dog Grooming Kit              | Essential grooming tools for a well-kept pup.       | $15.79 | Pet Supplies      | No      |
+| PS7        | Freshwater Fish Food          | Specially formulated food for freshwater fish.     | $8.49  | Pet Supplies      | No      |
+| PS8        | Cat Litter                    | Odor-absorbing cat litter for a clean environment.  | $7.99  | Pet Supplies      | Yes     |
+| PS9        | Chew Toys for Dogs            | Durable chew toys to keep your dog entertained.     | $6.99  | Pet Supplies      | No      |
+| PS10       | Reptile Heat Lamp             | Heat lamp for reptiles to maintain optimal temperature.| $11.99 | Pet Supplies      | No      |
+| ...        | ...                           | ...                                                | ...   | ...               | ...     |
+| PS91       | Pet Stain and Odor Remover    | Effective cleaner for pet stains and odors.         | $4.99  | Pet Supplies      | No      |
+| PS92       | Rabbit Hutch                  | Spacious hutch for a happy and healthy rabbit.     | $39.99 | Pet Supplies      | No      |
+| PS93       | Hamster Wheel                 | Exercise wheel for hamsters to stay active.        | $3.49  | Pet Supplies      | No      |
+| PS94       | Puppy Training Pads           | Absorbent training pads for housebreaking puppies.  | $8.99  | Pet Supplies      | No      |
+| PS95       | Turtle Pellets                | Pellets with essential nutrients for pet turtles.  | $5.49  | Pet Supplies      | Yes     |
+| PS96       | Guinea Pig Hay                | High-quality hay for guinea pigs' digestion.       | $2.99  | Pet Supplies      | Yes     |
+| PS97       | Doggy Raincoat                | Waterproof raincoat to keep your dog dry in the rain.| $10.49 | Pet Supplies      | No      |
+| PS98       | Bird Treats                   | Tasty treats for training and rewarding birds.    | $3.79  | Pet Supplies      | No      |
+| PS99       | Cat Grooming Brush            | Gentle brush for grooming your cat's fur.          | $4.49  | Pet Supplies      | No      |
+| PS100      | Aquarium Decorations          | Vibrant decorations to enhance your aquarium.      | $6.99  | Pet Supplies      | No      |
+| HW1        | Organic Green Tea Extract   | Pure organic green tea extract for antioxidant boost.| $8.99 | Health & Wellness  | No                |
+| HW2        | Omega-3 Fish Oil Capsules    | High-potency omega-3 fish oil capsules for heart health.| $12.49 | Health & Wellness | No                |
+| HW3        | Vegan Protein Powder        | Plant-based vegan protein powder for muscle recovery.| $19.99 | Health & Wellness | Yes               |
+| HW4        | Multivitamin Gummies        | Delicious multivitamin gummies for daily nutrition.  | $14.99 | Health & Wellness | No                |
+| HW5        | Natural Sleep Aid           | Herbal blend for a restful night's sleep.             | $10.79 | Health & Wellness | No                |
+| HW6        | Organic Kale Chips          | Baked organic kale chips, a nutritious snack.        | $3.99 | Health & Wellness | Yes               |
+| HW7        | Collagen Peptides Powder    | Collagen peptides for skin, hair, and joint health.  | $22.99 | Health & Wellness | No                |
+| HW8        | Ayurvedic Herbal Tea        | Traditional Ayurvedic herbal tea blend.              | $5.49 | Health & Wellness | No                |
+| HW9        | Gluten-Free Protein Bars    | Gluten-free protein bars for on-the-go nutrition.    | $2.79 | Health & Wellness | Yes               |
+| HW10       | Aloe Vera Gel               | Pure aloe vera gel for skin hydration.               | $7.49 | Health & Wellness | No                |
+| ...        | ...                         | ...                                                  | ...   | ...                | ...               |
+| HW91       | Elderberry Immune Support   | Elderberry supplement for immune system support.     | $14.99 | Health & Wellness | No                |
+| HW92       | Non-GMO Soy Protein         | Non-GMO soy protein isolate for muscle building.     | $16.99 | Health & Wellness | Yes               |
+| HW93       | Meditation Cushion          | Comfortable meditation cushion for mindfulness.     | $29.99 | Health & Wellness | No                |
+| HW94       | Organic Turmeric Capsules   | Organic turmeric capsules for anti-inflammatory benefits.| $9.99 | Health & Wellness | No                |
+| HW95       | Coconut Water               | Natural coconut water for hydration.                | $2.29 | Health & Wellness | No                |
+| HW96       | Bamboo Fiber Toothbrush     | Eco-friendly bamboo fiber toothbrush.               | $3.49 | Health & Wellness | No                |
+| HW97       | Plant-Based Omega-3 Supplement| Plant-derived omega-3 supplement for heart health.| $18.49 | Health & Wellness | Yes               |
+| HW98       | Chia Seed Pudding Cups      | Convenient chia seed pudding cups for a quick snack.| $4.99 | Health & Wellness | No                |
+| HW99       | Himalayan Salt Lamp         | Himalayan salt lamp for ambiance and air purification.| $19.99 | Health & Wellness | No                |
+| HW100      | Yoga Mat                    | High-quality yoga mat for comfortable practice.     | $24.99 | Health & Wellness | No                |
+| IF1        | Japanese Ramen          | Authentic Japanese ramen noodles with savory broth.| $3.99 | Noodles & Pasta   | No                |
+| IF2        | Italian Olive Oil        | Extra virgin olive oil from the hills of Italy.   | $7.49 | Condiments & Oils | No                |
+| IF3        | French Baguette          | Crispy French baguette, perfect with cheese.      | $2.29 | Bakery            | No                |
+| IF4        | Indian Curry Paste       | Spicy curry paste for flavorful Indian dishes.    | $4.99 | Condiments & Oils | No                |
+| IF5        | Mexican Salsa            | Zesty Mexican salsa with tomatoes and spices.     | $1.99 | Condiments & Oils | No                |
+| IF6        | Spanish Paella           | Traditional Spanish paella with saffron-infused rice.| $9.99 | Ready Meals       | No                |
+| IF7        | Thai Coconut Milk        | Creamy coconut milk for Thai curries and desserts.| $2.79 | Canned Goods      | No                |
+| IF8        | Greek Feta Cheese        | Authentic Greek feta cheese for salads and pastries.| $5.49 | Dairy & Eggs      | No                |
+| IF9        | Chinese Five-Spice       | A blend of five spices for Chinese cuisine.       | $3.29 | Spices & Seasonings | No              |
+| IF10       | Brazilian Coffee Beans   | Premium Brazilian coffee beans for a rich brew.   | $8.99 | Beverages         | No                |
+| ...        | ...                     | ...                                               | ...   | ...               | ...               |
+| IF91       | Moroccan Couscous       | Fluffy Moroccan couscous for a quick meal.        | $2.99 | Pasta & Grains    | No                |
+| IF92       | Vietnamese Pho           | Instant Vietnamese pho noodles with broth.       | $4.49 | Noodles & Pasta   | No                |
+| IF93       | Swiss Chocolate          | Rich and velvety Swiss chocolate bars.           | $3.99 | Sweets & Chocolates | No              |
+| IF94       | Australian Lamb Chops   | Tender Australian lamb chops for grilling.       | $11.99 | Meat & Poultry    | No                |
+| IF95       | Jamaican Jerk Seasoning  | Spicy Jamaican jerk seasoning for BBQ dishes.    | $2.79 | Spices & Seasonings | No              |
+| IF96       | Irish Whiskey            | Smooth Irish whiskey for sipping or cocktails.   | $19.99 | Beverages         | No                |
+| IF97       | Korean Kimchi            | Traditional Korean kimchi for a spicy kick.      | $3.49 | Pickles & Fermented Foods | No            |
+| IF98       | Dutch Gouda Cheese       | Creamy Dutch Gouda cheese for snacking.          | $6.99 | Dairy & Eggs      | No                |
+| IF99       | Nigerian Jollof Rice     | Nigerian-style jollof rice with flavorful spices.| $5.99 | Ready Meals       | No                |
+| IF100      | Lebanese Baklava         | Sweet Lebanese baklava with layers of filo pastry.| $7.99 | Sweets & Chocolates | No              |
+| P1001      | Organic Avocado          | Fresh, organic avocados from sustainable farms.   | $2.99 | Fruits & Vegetables | No                |
+| P1002      | Natural Almond Butter     | Creamy almond butter made from natural almonds.   | $5.49 | Condiments & Oils | No                |
+| P1003      | Organic Quinoa           | Premium organic quinoa for a wholesome meal.      | $4.99 | Pasta & Grains    | No                |
+| P1004      | Natural Greek Yogurt      | Thick and creamy Greek yogurt with live cultures. | $3.99 | Dairy & Eggs      | No                |
+| P1005      | Organic Kale              | Fresh organic kale, rich in vitamins.             | $2.49 | Fruits & Vegetables | No                |
+| P1006      | Natural Honey             | Pure and natural honey from local beekeepers.     | $7.99 | Condiments & Oils | No                |
+| P1007      | Organic Chia Seeds        | Organic chia seeds for a healthy diet.           | $3.29 | Snacks            | No                |
+| P1008      | Natural Almond Milk       | Non-dairy almond milk made from natural almonds. | $4.49 | Dairy & Eggs      | No                |
+| P1009      | Organic Spinach           | Organic spinach, packed with nutrients.           | $2.79 | Fruits & Vegetables | No                |
+| P1010      | Natural Coconut Water     | Refreshing coconut water, 100% natural.          | $2.99 | Beverages         | No                |
+| ...        | ...                      | ...                                               | ...   | ...               | ...               |
+| P1091      | Natural Granola           | Crunchy granola with natural ingredients.        | $4.99 | Breakfast         | No                |
+| P1092      | Organic Flaxseed          | Nutrient-rich organic flaxseed for a healthy diet.| $2.79 | Snacks            | No                |
+| P1093      | Natural Maple Syrup        | Pure maple syrup, perfect for pancakes.           | $7.49 | Condiments & Oils | No                |
+| P1094      | Organic Tomato Sauce      | Organic tomato sauce for pasta and pizzas.       | $3.99 | Condiments & Oils | No                |
+| P1095      | Natural Nut Mix           | Assorted natural nuts for a quick snack.         | $5.99 | Snacks            | No                |
+| P1096      | Organic Coconut Flour     | Gluten-free organic coconut flour for baking.    | $5.99 | Pasta & Grains    | No                |
+| P1097      | Natural Green Tea          | Pure and natural green tea leaves.               | $3.49 | Beverages         | No                |
+| P1098      | Organic Almond Granola    | Organic granola with almonds and dried fruits.   | $6.49 | Breakfast         | No                |
+| P1099      | Natural Fruit Smoothie    | Natural fruit smoothie blend with no added sugar.| $4.99 | Beverages         | No                |
+| P1100      | Organic Mixed Berries     | Frozen mix of organic berries.                   | $5.49 | Frozen Foods      | No                |
+| GF1        | Quinoa & Kale Salad     | Nutrient-packed quinoa and kale salad.            | $4.99 | Ready Meals       | No                |
+| GF2        | Gluten-Free Bread       | Sliced gluten-free bread for a wheat-free option. | $3.99 | Bakery            | Yes               |
+| GF3        | Cauliflower Pizza Crust  | Gluten-free cauliflower pizza crust.              | $5.49 | Frozen Foods      | No                |
+| GF4        | Organic Brown Rice      | Gluten-free, long-grain brown rice.               | $2.99 | Pasta & Grains    | Yes               |
+| GF5        | Almond Flour            | Gluten-free almond flour for baking.              | $8.99 | Pasta & Grains    | No                |
+| GF6        | Gluten-Free Pasta       | Spiral-shaped gluten-free pasta.                  | $3.79 | Pasta & Grains    | Yes               |
+| GF7        | Quinoa Crackers         | Crispy gluten-free crackers made with quinoa.     | $2.79 | Snacks            | No                |
+| GF8        | Gluten-Free Oats        | Rolled oats processed in a gluten-free facility.  | $4.49 | Breakfast         | Yes               |
+| GF9        | Chickpea Flour          | Versatile chickpea flour for gluten-free cooking. | $3.99 | Condiments & Oils | No                |
+| GF10       | Gluten-Free Brownies    | Indulgent gluten-free brownies.                   | $5.99 | Snacks            | No                |
+| ...        | ...                     | ...                                               | ...   | ...               | ...               |
+| GF91       | Gluten-Free Pancake Mix | Easy-to-make gluten-free pancake mix.             | $4.99 | Breakfast         | No                |
+| GF92       | Quinoa & Black Bean Bowl | Gluten-free quinoa and black bean bowl.           | $6.49 | Ready Meals       | Yes               |
+| GF93       | Coconut Flour           | Gluten-free coconut flour for baking.             | $5.99 | Pasta & Grains    | No                |
+| GF94       | Gluten-Free Pizza        | Ready-to-bake gluten-free pizza.                 | $7.99 | Frozen Foods      | No                |
+| GF95       | Chickpea Pasta          | Gluten-free pasta made from chickpeas.           | $4.99 | Pasta & Grains    | No                |
+| GF96       | Gluten-Free Waffle Mix   | Gluten-free mix for delicious waffles.           | $3.49 | Breakfast         | No                |
+| GF97       | Quinoa & Berry Parfait  | Gluten-free quinoa and berry parfait.            | $4.99 | Breakfast         | No                |
+| GF98       | Gluten-Free Granola      | Crunchy gluten-free granola with nuts and seeds. | $5.99 | Breakfast         | No                |
+| GF99       | Cauliflower Gnocchi      | Gluten-free cauliflower gnocchi.                 | $6.99 | Frozen Foods      | No                |
+| GF100      | Gluten-Free Chocolate Cake| Rich and moist gluten-free chocolate cake.      | $8.49 | Bakery            | No                |
+| V1         | Organic Tofu                 | Non-GMO, organic tofu for versatile recipes.      | $2.99 | Vegetarian & Vegan | No                |
+| V2         | Quinoa Salad                 | Nutrient-rich quinoa salad with fresh veggies.    | $4.49 | Vegetarian & Vegan | Yes               |
+| V3         | Chickpea Pasta               | Gluten-free pasta made from chickpeas.            | $3.79 | Vegetarian & Vegan | Yes               |
+| V4         | Vegan Cheese                 | Dairy-free vegan cheese alternative.              | $5.99 | Vegetarian & Vegan | Yes               |
+| V5         | Spinach and Artichoke Dip    | Creamy dip with spinach and artichokes.           | $3.99 | Vegetarian & Vegan | No                |
+| V6         | Lentil Soup                  | Hearty lentil soup with vegetables.               | $2.49 | Vegetarian & Vegan | Yes               |
+| V7         | Almond Milk                  | Unsweetened almond milk for a dairy-free option.  | $3.49 | Vegetarian & Vegan | Yes               |
+| V8         | Vegan Chocolate Bars         | Dark chocolate bars made without dairy.           | $4.99 | Vegetarian & Vegan | Yes               |
+| V9         | Veggie Burger                | Plant-based veggie burger patty.                  | $6.49 | Vegetarian & Vegan | Yes               |
+| V10        | Avocado                       | Fresh avocados, perfect for salads and sandwiches.| $1.99 | Vegetarian & Vegan | No                |
+| ...        | ...                          | ...                                               | ...   | ...               | ...               |
+| V91        | Vegan Caesar Salad           | Classic Caesar salad made with vegan ingredients. | $5.99 | Vegetarian & Vegan | Yes               |
+| V92        | Coconut Yogurt               | Dairy-free coconut yogurt with live cultures.     | $4.99 | Vegetarian & Vegan | Yes               |
+| V93        | Vegan Protein Powder         | Plant-based protein powder for shakes and smoothies.| $19.99 | Vegetarian & Vegan | Yes               |
+| V94        | Stuffed Mushrooms            | Mushrooms stuffed with herbs and breadcrumbs.     | $4.79 | Vegetarian & Vegan | No                |
+| V95        | Vegan Ice Cream              | Non-dairy ice cream in various flavors.           | $6.99 | Vegetarian & Vegan | Yes               |
+| V96        | Quinoa and Black Bean Bowl   | Protein-packed bowl with quinoa and black beans.  | $7.49 | Vegetarian & Vegan | Yes               |
+| V97        | Vegan Pesto                  | Basil pesto made without parmesan.               | $3.99 | Vegetarian & Vegan | Yes               |
+| V98        | Cauliflower Wings            | Crispy cauliflower wings with buffalo sauce.     | $5.49 | Vegetarian & Vegan | Yes               |
+| V99        | Vegan Breakfast Burrito      | Breakfast burrito with tofu and veggies.         | $4.99 | Vegetarian & Vegan | Yes               |
+| V100       | Vegan Brownies               | Fudgy brownies made without eggs and dairy.      | $3.99 | Vegetarian & Vegan | Yes               |
+| DA1        | Almond Milk                | Nutrient-rich almond milk for a dairy-free option.| $3.49 | Dairy Alternatives     | No                |
+| DA2        | Soy Milk                   | Creamy soy milk for a plant-based choice.         | $2.99 | Dairy Alternatives     | Yes               |
+| DA3        | Coconut Milk               | Rich and indulgent coconut milk alternative.      | $2.79 | Dairy Alternatives     | No                |
+| DA4        | Oat Milk                   | Smooth and versatile oat milk for various uses.   | $3.99 | Dairy Alternatives     | Yes               |
+| DA5        | Cashew Milk                | Creamy cashew milk for a luxurious taste.         | $4.49 | Dairy Alternatives     | No                |
+| DA6        | Rice Milk                  | Light and refreshing rice milk alternative.       | $2.49 | Dairy Alternatives     | No                |
+| DA7        | Hemp Milk                  | Nutty hemp milk for a unique flavor.              | $4.99 | Dairy Alternatives     | Yes               |
+| DA8        | Flaxseed Milk              | Omega-3-rich flaxseed milk for a healthy choice.  | $3.79 | Dairy Alternatives     | No                |
+| DA9        | Pea Milk                   | Protein-packed pea milk for a nutritious option.  | $5.49 | Dairy Alternatives     | Yes               |
+| DA10       | Macadamia Milk             | Creamy macadamia milk for a decadent treat.       | $6.99 | Dairy Alternatives     | No                |
+| ...        | ...                        | ...                                              | ...   | ...                    | ...               |
+| DA91       | Quinoa Milk                | Quinoa-based milk for a unique plant-based option.| $4.29 | Dairy Alternatives     | No                |
+| DA92       | Pistachio Milk             | Rich and flavorful pistachio milk alternative.    | $7.99 | Dairy Alternatives     | No                |
+| DA93       | Sunflower Seed Milk        | Light and nutty sunflower seed milk.              | $3.29 | Dairy Alternatives     | No                |
+| DA94       | Banana Milk                | Sweet and creamy banana-flavored milk.            | $2.99 | Dairy Alternatives     | No                |
+| DA95       | Walnut Milk                | Nutrient-dense walnut milk for a wholesome choice.| $5.79 | Dairy Alternatives     | No                |
+| DA96       | Hazelnut Milk              | Indulgent hazelnut milk for a rich flavor.       | $6.49 | Dairy Alternatives     | No                |
+| DA97       | Chia Seed Milk             | Chia seed-infused milk for added benefits.       | $4.49 | Dairy Alternatives     | Yes               |
+| DA98       | Pecan Milk                 | Smooth and buttery pecan milk alternative.       | $8.99 | Dairy Alternatives     | No                |
+| DA99       | Sesame Milk                | Nutty sesame milk for a unique taste.            | $3.99 | Dairy Alternatives     | No                |
+| DA100      | Avocado Milk               | Creamy avocado milk for a decadent treat.         | $6.79 | Dairy Alternatives     | No                |
+| P1001      | Organic Basil          | Fresh organic basil leaves for culinary delights.    | $2.99 | Fresh Herbs & Spices | No                |
+| P1002      | Cilantro Bunch         | A bunch of aromatic cilantro for flavor-packed dishes.| $1.49 | Fresh Herbs & Spices | No                |
+| P1003      | Ground Cumin           | Finely ground cumin for adding depth to your recipes.| $2.79 | Fresh Herbs & Spices | No                |
+| P1004      | Thyme Leaves           | Fragrant thyme leaves for seasoning various dishes.  | $1.99 | Fresh Herbs & Spices | No                |
+| P1005      | Rosemary Sprigs        | Fresh rosemary sprigs for a hint of piney flavor.    | $2.49 | Fresh Herbs & Spices | No                |
+| P1006      | Organic Dill           | Organic dill leaves for a burst of freshness.        | $2.29 | Fresh Herbs & Spices | No                |
+| P1007      | Ground Coriander       | Ground coriander for a citrusy and warm flavor.      | $2.99 | Fresh Herbs & Spices | No                |
+| P1008      | Chopped Garlic         | Conveniently chopped garlic for easy cooking.        | $3.49 | Fresh Herbs & Spices | No                |
+| P1009      | Mint Leaves            | Refreshing mint leaves for teas and garnishes.      | $1.79 | Fresh Herbs & Spices | No                |
+| P1010      | Smoked Paprika         | Smoky and spicy paprika to enhance your dishes.      | $2.49 | Fresh Herbs & Spices | No                |
+| ...        | ...                    | ...                                                  | ...   | ...                | ...               |
+| P1091      | Lemongrass Stalks      | Lemongrass stalks for a citrusy and herbal flavor.   | $2.99 | Fresh Herbs & Spices | No                |
+| P1092      | Ground Turmeric        | Ground turmeric for a warm and earthy taste.         | $1.99 | Fresh Herbs & Spices | No                |
+| P1093      | Bay Leaves              | Dried bay leaves for soups, stews, and sauces.      | $1.49 | Fresh Herbs & Spices | No                |
+| P1094      | Vanilla Pods            | Whole vanilla pods for infusing desserts and drinks.| $4.99 | Fresh Herbs & Spices | No                |
+| P1095      | Saffron Threads         | Premium saffron threads for rich and vibrant color.  | $9.99 | Fresh Herbs & Spices | No                |
+| P1096      | Ground Ginger           | Ground ginger for adding warmth to your recipes.     | $2.29 | Fresh Herbs & Spices | No                |
+| P1097      | Tarragon Leaves         | Tarragon leaves for a distinct anise-like flavor.   | $2.79 | Fresh Herbs & Spices | No                |
+| P1098      | Ground Cardamom         | Ground cardamom for a sweet and floral aroma.        | $3.49 | Fresh Herbs & Spices | No                |
+| P1099      | Parsley Flakes          | Dried parsley flakes for garnishing and seasoning.  | $1.79 | Fresh Herbs & Spices | No                |
+| P1100      | Curry Leaves            | Fresh curry leaves for authentic Indian dishes.     | $1.99 | Fresh Herbs & Spices | No                |
+| CT1        | Colombian Dark Roast         | Rich and bold Colombian dark roast coffee.         | $8.99 | Coffee & Tea      | No                |
+| CT2        | Green Tea Blend              | A refreshing blend of green tea leaves.            | $4.49 | Coffee & Tea      | Yes               |
+| CT3        | Espresso Pods                | Convenient espresso pods for quick brewing.        | $10.99 | Coffee & Tea      | No                |
+| CT4        | Chamomile Herbal Tea         | Calming chamomile herbal tea for relaxation.       | $3.99 | Coffee & Tea      | Yes               |
+| CT5        | French Vanilla Coffee        | Smooth and creamy French vanilla-flavored coffee.  | $9.99 | Coffee & Tea      | No                |
+| CT6        | Earl Grey Tea Bags           | Classic Earl Grey tea bags for tea lovers.         | $5.49 | Coffee & Tea      | Yes               |
+| CT7        | Cold Brew Coffee             | Ready-to-drink cold brew coffee for on-the-go.     | $4.99 | Coffee & Tea      | No                |
+| CT8        | Peppermint Infusion          | Invigorating peppermint infusion for a minty taste.| $3.79 | Coffee & Tea      | Yes               |
+| CT9        | Hazelnut Coffee              | A delightful blend of hazelnut-flavored coffee.    | $7.49 | Coffee & Tea      | No                |
+| CT10       | Jasmine Green Tea            | Fragrant jasmine green tea for a floral experience.| $6.99 | Coffee & Tea      | Yes               |
+| ...        | ...                          | ...                                               | ...   | ...               | ...               |
+| CT91       | Caramel Macchiato Pods       | Caramel macchiato-flavored coffee pods.            | $11.99 | Coffee & Tea      | No                |
+| CT92       | Peppermint Mocha Coffee      | Indulgent peppermint mocha-flavored coffee.        | $8.99 | Coffee & Tea      | No                |
+| CT93       | Lemon Ginger Herbal Tea      | Soothing lemon ginger herbal tea blend.            | $4.99 | Coffee & Tea      | Yes               |
+| CT94       | Vanilla Chai Latte Mix       | Vanilla chai latte mix for a cozy beverage.        | $5.79 | Coffee & Tea      | No                |
+| CT95       | White Tea and Peach Fusion   | White tea infused with peach for a fruity twist.   | $6.49 | Coffee & Tea      | Yes               |
+| CT96       | Pumpkin Spice Coffee         | Seasonal pumpkin spice-flavored coffee.           | $9.49 | Coffee & Tea      | No                |
+| CT97       | Blueberry Burst Herbal Tea   | Bursting with blueberry flavor herbal tea.         | $4.29 | Coffee & Tea      | Yes               |
+| CT98       | Cappuccino Mix               | Instant cappuccino mix for a frothy treat.         | $7.99 | Coffee & Tea      | No                |
+| CT99       | Gingerbread Latte Pods       | Gingerbread latte-flavored coffee pods.            | $10.99 | Coffee & Tea      | No                |
+| CT100      | Peach Iced Tea               | Refreshing peach-flavored iced tea.               | $3.99 | Coffee & Tea      | Yes               |
+| R1         | Basmati Rice            | Aromatic and long-grain Basmati rice.             | $4.99 | Rice & Grains    | No                |
+| R2         | Quinoa                  | Nutrient-rich and versatile quinoa.               | $3.49 | Rice & Grains    | No                |
+| R3         | Brown Rice              | Wholesome long-grain brown rice.                  | $2.99 | Rice & Grains    | Yes               |
+| R4         | Arborio Rice            | Ideal for creamy risotto dishes.                  | $5.99 | Rice & Grains    | No                |
+| R5         | Jasmine Rice            | Fragrant and fluffy jasmine rice.                 | $4.49 | Rice & Grains    | No                |
+| R6         | Wild Rice Blend         | A blend of wild rice for a unique flavor.         | $6.99 | Rice & Grains    | No                |
+| R7         | Couscous                | Quick-cooking couscous for various dishes.        | $1.99 | Rice & Grains    | No                |
+| R8         | Basmati Rice (Organic)  | Organic and aromatic Basmati rice.                | $6.49 | Rice & Grains    | No                |
+| R9         | Quinoa & Brown Rice Mix | Blend of quinoa and brown rice for a balanced meal.| $4.79 | Rice & Grains    | No                |
+| R10        | Arborio Rice (Organic)  | Organic Arborio rice for gourmet recipes.         | $7.99 | Rice & Grains    | No                |
+| ...        | ...                     | ...                                               | ...   | ...              | ...               |
+| R91        | Red Lentils             | Quick-cooking red lentils for soups and stews.    | $2.49 | Rice & Grains    | Yes               |
+| R92        | Bulgur Wheat            | Lightly processed bulgur wheat for salads.        | $3.29 | Rice & Grains    | No                |
+| R93        | Barley                  | Whole barley grains for hearty soups.             | $2.79 | Rice & Grains    | No                |
+| R94        | Brown Basmati Rice      | Wholesome and aromatic brown Basmati rice.        | $5.49 | Rice & Grains    | No                |
+| R95        | Quinoa & Kale Blend     | Nutrient-packed quinoa and kale blend.            | $4.99 | Rice & Grains    | No                |
+| R96        | White Jasmine Rice      | Fluffy and fragrant white jasmine rice.           | $3.99 | Rice & Grains    | No                |
+| R97        | Farro                   | Ancient grain farro for salads and pilafs.        | $4.29 | Rice & Grains    | No                |
+| R98        | Couscous (Organic)      | Organic quick-cooking couscous.                   | $2.29 | Rice & Grains    | No                |
+| R99        | Quinoa & Black Beans    | Blend of quinoa and black beans for protein.      | $4.59 | Rice & Grains    | No                |
+| R100       | White Rice              | Classic and versatile white rice.                 | $2.49 | Rice & Grains    | No                |
+| P1001      | Almond Snack Mix        | Nutrient-packed almond snack mix.                  | $4.99 | Nuts & Seeds      | No                |
+| P1002      | Roasted Cashews         | Premium roasted cashews for snacking.              | $6.49 | Nuts & Seeds      | No                |
+| P1003      | Pistachio Delight       | Salted pistachios for a delightful treat.          | $8.99 | Nuts & Seeds      | No                |
+| P1004      | Chia Seed Blend         | Blend of chia seeds for a healthy boost.          | $3.99 | Nuts & Seeds      | No                |
+| P1005      | Trail Mix Medley        | A medley of nuts, seeds, and dried fruits.         | $5.49 | Nuts & Seeds      | No                |
+| P1006      | Honey Roasted Peanuts   | Honey-roasted peanuts for a sweet crunch.          | $2.99 | Nuts & Seeds      | No                |
+| P1007      | Pumpkin Seeds           | Roasted and salted pumpkin seeds.                 | $3.79 | Nuts & Seeds      | No                |
+| P1008      | Walnut Crunch Mix       | Crunchy mix of walnuts and dried fruits.          | $7.99 | Nuts & Seeds      | No                |
+| P1009      | Sunflower Seed Butter   | Creamy sunflower seed butter spread.              | $4.49 | Nuts & Seeds      | No                |
+| P1010      | Mixed Nuts Assortment    | Assorted mixed nuts for a flavorful snack.        | $5.99 | Nuts & Seeds      | No                |
+| ...        | ...                     | ...                                               | ...   | ...               | ...               |
+| P1091      | Spicy Almond Mix        | Spicy almond mix for an adventurous snack.        | $6.99 | Nuts & Seeds      | No                |
+| P1092      | Coconut Almond Clusters | Clusters of coconut and almonds.                  | $4.99 | Nuts & Seeds      | No                |
+| P1093      | Sesame Seed Bars        | Energy bars with sesame seeds and honey.          | $3.49 | Nuts & Seeds      | No                |
+| P1094      | Roasted Macadamia Nuts  | Macadamia nuts roasted to perfection.             | $9.99 | Nuts & Seeds      | No                |
+| P1095      | Hazelnut Chocolate Mix  | Hazelnuts and chocolate blend for a sweet treat.  | $7.49 | Nuts & Seeds      | No                |
+| P1096      | Quinoa & Almond Granola | Granola with quinoa, almonds, and oats.           | $5.99 | Nuts & Seeds      | No                |
+| P1097      | Cashew Energy Bites     | Energy bites made with cashews and dates.        | $4.79 | Nuts & Seeds      | No                |
+| P1098      | Coconut Flaxseed Bars   | Bars packed with coconut and flaxseeds.           | $3.99 | Nuts & Seeds      | No                |
+| P1099      | Pine Nut Delight        | Delightful pine nuts for a unique flavor.         | $8.49 | Nuts & Seeds      | No                |
+| P1100      | Walnut Raisin Mix       | Mix of walnuts and raisins for a wholesome snack. | $6.49 | Nuts & Seeds      | No                |
+| P1001      | Spicy Tomato Sauce          | Tangy and spicy tomato sauce for pasta dishes.    | $2.99 | Sauces & Marinades  | No                |
+| P1002      | Teriyaki Glaze              | Sweet and savory teriyaki glaze for grilling.     | $4.49 | Sauces & Marinades  | Yes               |
+| P1003      | Garlic Parmesan Dressing    | Creamy garlic parmesan dressing for salads.       | $3.99 | Sauces & Marinades  | No                |
+| P1004      | BBQ Chipotle Marinade       | Smoky chipotle marinade for BBQ delights.        | $5.99 | Sauces & Marinades  | Yes               |
+| P1005      | Lemon Herb Infusion         | Zesty lemon and herb infusion for seafood.       | $3.49 | Sauces & Marinades  | No                |
+| P1006      | Honey Mustard Glaze         | Tangy honey mustard glaze for chicken.           | $2.79 | Sauces & Marinades  | No                |
+| P1007      | Sesame Ginger Marinade      | A flavorful sesame ginger marinade for stir-fry. | $4.99 | Sauces & Marinades  | No                |
+| P1008      | Roasted Red Pepper Sauce    | Rich and smoky roasted red pepper sauce.         | $3.29 | Sauces & Marinades  | No                |
+| P1009      | Sweet Chili Dipping Sauce   | Sweet and spicy chili dipping sauce for appetizers.| $2.49 | Sauces & Marinades  | No                |
+| P1010      | Balsamic Glaze              | Thick balsamic glaze for drizzling on salads.    | $5.49 | Sauces & Marinades  | No                |
+| ...        | ...                         | ...                                               | ...   | ...                 | ...               |
+| P1091      | Cilantro Lime Dressing      | Refreshing cilantro lime dressing for salads.    | $3.79 | Sauces & Marinades  | No                |
+| P1092      | Mango Habanero Sauce        | Sweet and spicy mango habanero sauce.            | $4.99 | Sauces & Marinades  | No                |
+| P1093      | Pineapple Teriyaki Glaze    | Tropical pineapple teriyaki glaze for grilling.  | $5.49 | Sauces & Marinades  | No                |
+| P1094      | Chipotle Lime Aioli         | Smoky chipotle lime aioli for sandwiches.        | $3.99 | Sauces & Marinades  | No                |
+| P1095      | Sundried Tomato Pesto       | Rich sundried tomato pesto for pasta dishes.     | $4.29 | Sauces & Marinades  | No                |
+| P1096      | Maple Bourbon Barbecue Sauce | Sweet and savory maple bourbon barbecue sauce.   | $6.99 | Sauces & Marinades  | Yes               |
+| P1097      | Greek Tzatziki Sauce        | Creamy Greek tzatziki sauce for gyros.           | $3.49 | Sauces & Marinades  | No                |
+| P1098      | Mango Curry Marinade        | Tropical mango curry marinade for grilling.      | $5.99 | Sauces & Marinades  | No                |
+| P1099      | Avocado Lime Crema          | Zesty avocado lime crema for tacos.             | $3.79 | Sauces & Marinades  | No                |
+| P1100      | Smoked Paprika Vinaigrette  | Smoky paprika vinaigrette for salads.           | $4.49 | Sauces & Marinades  | No                |
+| P1001      | Classic Chicken Noodle Soup | Comforting chicken noodle soup with vegetables.   | $2.99 | Soups & Broths    | No                |
+| P1002      | Creamy Tomato Basil Soup    | Rich and creamy tomato basil soup.                | $3.49 | Soups & Broths    | No                |
+| P1003      | Hearty Vegetable Stew       | Hearty stew with a variety of fresh vegetables.  | $4.99 | Soups & Broths    | No                |
+| P1004      | Chicken and Rice Soup        | Classic chicken and rice soup for a warm meal.   | $3.29 | Soups & Broths    | No                |
+| P1005      | Spicy Lentil Soup           | Spicy lentil soup with a blend of spices.        | $2.79 | Soups & Broths    | No                |
+| P1006      | Cream of Broccoli Soup      | Creamy soup made with fresh broccoli.            | $3.99 | Soups & Broths    | No                |
+| P1007      | Minestrone Soup             | Italian minestrone soup with pasta and veggies.  | $4.49 | Soups & Broths    | No                |
+| P1008      | Thai Coconut Curry Soup     | Authentic Thai soup with coconut milk and curry. | $5.99 | Soups & Broths    | No                |
+| P1009      | Clam Chowder                | Creamy clam chowder with tender clams.           | $6.49 | Soups & Broths    | No                |
+| P1010      | Split Pea Soup              | Hearty split pea soup with ham.                  | $3.79 | Soups & Broths    | No                |
+| ...        | ...                        | ...                                              | ...   | ...               | ...               |
+| P1091      | Mexican Tortilla Soup       | Spicy and flavorful Mexican tortilla soup.       | $4.99 | Soups & Broths    | No                |
+| P1092      | Mushroom Barley Soup        | Comforting mushroom barley soup.                 | $3.49 | Soups & Broths    | No                |
+| P1093      | Tuscan White Bean Soup      | Rustic Tuscan soup with white beans.             | $4.99 | Soups & Broths    | No                |
+| P1094      | Chicken Tortellini Soup     | Chicken tortellini soup with spinach.            | $5.49 | Soups & Broths    | No                |
+| P1095      | Potato Leek Soup            | Creamy potato leek soup with fresh herbs.        | $3.99 | Soups & Broths    | No                |
+| P1096      | Moroccan Lentil Soup        | Spiced Moroccan lentil soup with chickpeas.      | $4.79 | Soups & Broths    | No                |
+| P1097      | Beef and Barley Soup        | Hearty beef and barley soup.                     | $6.99 | Soups & Broths    | No                |
+| P1098      | Tomato Gazpacho             | Refreshing tomato gazpacho with vegetables.      | $3.29 | Soups & Broths    | No                |
+| P1099      | Italian Wedding Soup        | Traditional Italian wedding soup with meatballs. | $5.99 | Soups & Broths    | No                |
+| P1100      | Pumpkin Bisque              | Smooth and velvety pumpkin bisque.               | $4.49 | Soups & Broths    | No                |
+| P1001      | Classic Spaghetti Bolognese | Ready-to-eat classic spaghetti Bolognese.         | $6.99 | Packaged Meals | No                |
+| P1002      | Vegetarian Lasagna          | Delicious vegetarian lasagna for a quick meal.    | $5.49 | Packaged Meals | No                |
+| P1003      | Chicken Alfredo             | Creamy chicken alfredo pasta in a convenient pack.| $7.99 | Packaged Meals | No                |
+| P1004      | Beef Stir-Fry               | Quick and tasty beef stir-fry with vegetables.    | $8.99 | Packaged Meals | No                |
+| P1005      | Margherita Pizza            | Frozen margherita pizza for easy preparation.     | $4.99 | Packaged Meals | No                |
+| P1006      | Teriyaki Chicken Bowl       | Teriyaki chicken and rice bowl for a flavorful meal.| $6.49 | Packaged Meals | No                |
+| P1007      | Spinach and Feta Wrap       | Spinach and feta wrap for a light lunch option.   | $3.99 | Packaged Meals | No                |
+| P1008      | Chicken Caesar Salad        | Chicken Caesar salad kit with dressing included.  | $5.99 | Packaged Meals | No                |
+| P1009      | Shrimp Fried Rice           | Ready-to-eat shrimp fried rice for a quick dinner.| $7.49 | Packaged Meals | No                |
+| P1010      | Beef Burrito                | Flavorful beef burrito with all the fixings.      | $6.99 | Packaged Meals | No                |
+| ...        | ...                        | ...                                               | ...   | ...          | ...               |
+| P1091      | Quinoa Salad                | Quinoa salad with a mix of vegetables and herbs.  | $4.29 | Packaged Meals | No                |
+| P1092      | Chicken Enchiladas          | Ready-to-eat chicken enchiladas in a convenient pack.| $8.99 | Packaged Meals | No                |
+| P1093      | Thai Green Curry            | Thai green curry with chicken and vegetables.     | $9.49 | Packaged Meals | No                |
+| P1094      | BBQ Pulled Pork Sandwich    | BBQ pulled pork sandwich with coleslaw.          | $6.79 | Packaged Meals | No                |
+| P1095      | Mediterranean Wrap          | Mediterranean wrap with hummus and veggies.      | $5.99 | Packaged Meals | No                |
+| P1096      | Beef and Broccoli Stir-Fry  | Quick and easy beef and broccoli stir-fry.        | $7.29 | Packaged Meals | No                |
+| P1097      | Chicken Pesto Pasta         | Chicken pesto pasta for a flavorful meal.         | $8.49 | Packaged Meals | No                |
+| P1098      | Vegetable Fried Rice        | Ready-to-eat vegetable fried rice.                | $5.99 | Packaged Meals | No                |
+| P1099      | Margherita Flatbread Pizza  | Margherita flatbread pizza for a quick snack.    | $4.99 | Packaged Meals | No                |
+| P1100      | Teriyaki Tofu Bowl          | Teriyaki tofu and rice bowl for a vegetarian option.| $6.49 | Packaged Meals | No                |
+| P1001      | Recycled Paper Towels         | Environmentally friendly paper towels.           | $2.99 | Paper Products  | No                |
+| P1002      | Quilted Bathroom Tissue       | Soft and absorbent bathroom tissue.              | $4.49 | Paper Products  | No                |
+| P1003      | Multi-Purpose Paper           | High-quality, versatile printing paper.         | $6.99 | Paper Products  | No                |
+| P1004      | Disposable Napkins            | Convenient and disposable napkins.              | $1.99 | Paper Products  | No                |
+| P1005      | Facial Tissues                | Gentle and soft facial tissues.                 | $1.49 | Paper Products  | No                |
+| P1006      | Paper Plates                  | Sturdy paper plates for parties and events.     | $3.99 | Paper Products  | No                |
+| P1007      | Paper Cups                    | Disposable paper cups for beverages.            | $2.49 | Paper Products  | No                |
+| P1008      | Brown Paper Bags              | Durable brown paper bags for groceries.         | $0.99 | Paper Products  | No                |
+| P1009      | White Paper Bags              | Clean and simple white paper bags.              | $1.29 | Paper Products  | No                |
+| P1010      | Gift Wrapping Paper           | Colorful and festive gift wrapping paper.       | $2.99 | Paper Products  | No                |
+| ...        | ...                           | ...                                              | ...   | ...             | ...               |
+| P1091      | Printed Paper Towels          | Decorative printed paper towels.                | $3.49 | Paper Products  | No                |
+| P1092      | Jumbo Roll Bathroom Tissue    | Extra-large roll of bathroom tissue.            | $5.99 | Paper Products  | No                |
+| P1093      | Colored Construction Paper     | Vibrant colored construction paper for crafts. | $4.99 | Paper Products  | No                |
+| P1094      | Cocktail Paper Napkins        | Small-sized paper napkins for cocktails.       | $1.29 | Paper Products  | No                |
+| P1095      | Pocket Facial Tissues         | Travel-sized facial tissues for on-the-go.      | $0.99 | Paper Products  | No                |
+| P1096      | Elegant Paper Plates          | Stylish and elegant paper plates for special occasions.| $5.99 | Paper Products | No                |
+| P1097      | Insulated Paper Cups          | Double-walled insulated paper cups for hot drinks.| $3.49 | Paper Products  | No                |
+| P1098      | Eco-Friendly Paper Straws     | Biodegradable paper straws for drinks.         | $1.79 | Paper Products  | No                |
+| P1099      | Gift Bags with Handles        | Convenient gift bags with sturdy handles.      | $2.79 | Paper Products  | No                |
+| P1100      | Wrapping Tissue Paper         | Delicate and thin wrapping tissue paper.       | $1.49 | Paper Products  | No                |
+| KU101      | Stainless Steel Knife  | Sharp and durable stainless steel kitchen knife.  | $12.99 | Cutlery           | Stainless Steel |
+| KU102      | Non-Stick Frying Pan   | High-quality non-stick frying pan for easy cooking.| $19.99 | Cookware          | Aluminum     |
+| KU103      | Silicone Spatula       | Flexible silicone spatula for effortless flipping.| $4.49  | Utensils          | Silicone     |
+| KU104      | Wooden Cutting Board   | Large wooden cutting board for chopping and slicing.| $9.99 | Cookware          | Wood         |
+| KU105      | Nylon Cooking Utensil Set | Set of nylon cooking utensils for non-stick pans.| $14.99 | Utensils       | Nylon        |
+| KU106      | Stainless Steel Mixing Bowls | Set of stainless steel mixing bowls.          | $24.99 | Cookware       | Stainless Steel |
+| KU107      | Chef's Knife            | Professional chef's knife for precise cutting.   | $29.99 | Cutlery           | Stainless Steel |
+| KU108      | Glass Baking Dish       | Versatile glass baking dish for oven use.        | $8.99  | Bakeware          | Glass        |
+| KU109      | Potato Peeler           | Dual-blade potato peeler for quick peeling.      | $3.49  | Utensils          | Stainless Steel |
+| KU110      | Measuring Cups and Spoons Set | Set of measuring cups and spoons.        | $7.99 | Utensils       | Plastic      |
+| ...        | ...                    | ...                                               | ...   | ...               | ...          |
+| KU196      | Cast Iron Skillet       | Heavy-duty cast iron skillet for even cooking.   | $29.99 | Cookware          | Cast Iron    |
+| KU197      | Bamboo Cooking Utensils Set | Eco-friendly bamboo utensil set.           | $11.99 | Utensils       | Bamboo       |
+| KU198      | Cheese Grater           | Stainless steel cheese grater with multiple blades.| $6.99 | Utensils       | Stainless Steel |
+| KU199      | Whisk                   | Stainless steel whisk for mixing and beating.    | $5.49  | Utensils          | Stainless Steel |
+| KU200      | Pizza Cutter            | Sharp pizza cutter with ergonomic handle.        | $4.99  | Utensils          | Stainless Steel |
+| HA101      | Smart Refrigerator        | Energy-efficient smart refrigerator with touchscreen.  | $999.99 | Appliances        |
+| HA102      | Washing Machine           | High-capacity front-loading washing machine.           | $599.99 | Appliances        |
+| HA103      | Robot Vacuum Cleaner      | AI-powered robot vacuum with advanced cleaning features.| $349.99 | Appliances        |
+| HA104      | Microwave Oven            | Stainless steel microwave oven with multiple presets.  | $129.99 | Appliances        |
+| HA105      | Smart Thermostat          | Wi-Fi-enabled smart thermostat for home climate control.| $149.99 | Smart Home         |
+| HA106      | Air Purifier              | HEPA-filter air purifier for clean and fresh air.      | $199.99 | Appliances        |
+| HA107      | Blender                   | High-speed blender for smoothies and food processing.  | $79.99  | Kitchen Appliances |
+| HA108      | Coffee Maker              | Programmable coffee maker with grinder.               | $89.99  | Kitchen Appliances |
+| HA109      | Robotic Lawn Mower        | Automated lawn mower for hands-free lawn maintenance. | $499.99 | Garden & Outdoor   |
+| HA110      | Smart Doorbell            | Video doorbell with motion detection and smartphone integration.| $129.99 | Smart Home         |
+| ...        | ...                       | ...                                                   | ...     | ...                |
+| HA191      | Electric Kettle           | Stainless steel electric kettle with temperature control.| $39.99  | Kitchen Appliances |
+| HA192      | Smart Home Security System| Complete smart home security system with cameras and sensors.| $499.99 | Smart Home         |
+| HA193      | Toaster                   | Four-slice toaster with multiple browning settings.   | $49.99  | Kitchen Appliances |
+| HA194      | Portable Air Conditioner  | Compact portable air conditioner for cooling on the go.| $299.99 | Appliances        |
+| HA195      | Robot Bartender           | Automated robot bartender for cocktail mixing.        | $799.99 | Appliances        |
+| HA196      | Handheld Steamer          | Handheld garment steamer for wrinkle-free clothes.    | $29.99  | Appliances        |
+| HA197      | Food Processor            | Multi-function food processor for kitchen versatility.| $119.99 | Kitchen Appliances |
+| HA198      | Smart Lighting Kit        | Smart LED lighting kit with color-changing options.   | $79.99  | Smart Home         |
+| HA199      | Electric Grill            | Indoor electric grill for year-round grilling.       | $69.99  | Kitchen Appliances |
+| HA200      | Smart Mirror              | Mirror with built-in display for smart home integration.| $199.99 | Smart Home         |
+| Product ID | Product Name           | Description                                       | Price | Category         | Brand           |
+|------------|------------------------|---------------------------------------------------|-------|------------------|------------------|
+| O1         | Ballpoint Pens         | Pack of 10 black ballpoint pens for smooth writing.| $2.99 | Office Supplies | Generic          |
+| O2         | Sticky Notes            | Assorted pack of sticky notes in different colors.| $1.49 | Office Supplies | Post-It          |
+| O3         | Spiral Notebooks        | Set of 5 spiral-bound notebooks with lined pages.  | $4.99 | Office Supplies | Oxford           |
+| O4         | Mechanical Pencils      | Mechanical pencils with erasers, pack of 12.       | $3.99 | Office Supplies | Bic              |
+| O5         | Whiteboard Markers      | Set of 8 colorful whiteboard markers for presentations.| $6.99 | Office Supplies | Expo             |
+| O6         | Stapler                 | Heavy-duty stapler for securing documents.         | $8.49 | Office Supplies | Swingline        |
+| O7         | Index Dividers          | A set of 5 index dividers for organizing files.   | $2.29 | Office Supplies | Avery            |
+| O8         | Printer Paper           | A ream of high-quality printer paper, 500 sheets. | $7.99 | Office Supplies | HP              |
+| O9         | Desk Organizer          | Multi-compartment desk organizer for office supplies.| $12.99 | Office Supplies | Rolodex         |
+| O10        | Binder Clips            | Assorted pack of binder clips in various sizes.    | $1.79 | Office Supplies | Officemate       |
+| ...        | ...                    | ...                                               | ...   | ...              | ...              |
+| O91        | File Folders            | Pack of 20 file folders for document storage.      | $5.49 | Office Supplies | Smead           |
+| O92        | Laminator               | Thermal laminator for preserving important documents.| $29.99 | Office Supplies | Fellowes        |
+| O93        | Business Card Holder    | Clear acrylic business card holder, holds 50 cards. | $3.49 | Office Supplies | MaxGear         |
+| O94        | Dry Erase Board         | Large dry erase board with marker and eraser.      | $19.99 | Office Supplies | Quartet         |
+| O95        | Envelopes               | Box of 50 self-sealing envelopes for mailings.     | $4.99 | Office Supplies | Mead            |
+| O96        | Bulletin Board          | Cork bulletin board for displaying important notes.| $14.99 | Office Supplies | UBrands         |
+| O97        | Document Scanner        | Compact document scanner for digitizing paperwork. | $89.99 | Office Supplies | Canon           |
+| O98        | Desk Lamp               | Adjustable LED desk lamp for optimal lighting.     | $24.99 | Office Supplies | TaoTronics      |
+| O99        | Surge Protector         | 6-outlet surge protector with USB ports.          | $16.99 | Office Supplies | Belkin          |
+| O100       | Shredder                | Cross-cut paper shredder for secure document disposal.| $49.99 | Office Supplies | AmazonBasics    |
+| E1         | Smart LED TV                  | 55-inch smart LED TV with 4K resolution.           | $699  | Electronics | 2 years          |
+| E2         | Laptop                        | High-performance laptop with SSD storage.          | $899  | Electronics | 1 year           |
+| E3         | Wireless Headphones           | Over-ear wireless headphones with noise cancellation.| $149 | Electronics | 2 years          |
+| E4         | Smartwatch                    | Fitness tracker and smartwatch with heart rate monitor.| $129 | Electronics | 1 year           |
+| E5         | Bluetooth Speaker             | Portable Bluetooth speaker with 20W output.        | $79   | Electronics | 1 year           |
+| E6         | Gaming Console                | Next-gen gaming console with 1TB storage.          | $499  | Electronics | 2 years          |
+| E7         | DSLR Camera                   | Professional DSLR camera with 24MP sensor.         | $1299 | Electronics | 3 years          |
+| E8         | Wireless Router               | Dual-band wireless router for high-speed internet. | $89   | Electronics | 2 years          |
+| E9         | Fitness Tracker               | Slim fitness tracker with sleep monitoring.       | $49   | Electronics | 1 year           |
+| E10        | Smart Home Hub                | Central hub for smart home automation.             | $129  | Electronics | 1 year           |
+| ...        | ...                           | ...                                               | ...   | ...         | ...              |
+| E91        | Noise-Canceling Earbuds       | Wireless earbuds with active noise cancellation.  | $119  | Electronics | 2 years          |
+| E92        | 4K Action Camera              | Compact 4K action camera for outdoor adventures.  | $199  | Electronics | 1 year           |
+| E93        | Portable Power Bank           | High-capacity portable power bank for charging on the go.| $39 | Electronics | 6 months         |
+| E94        | VR Headset                    | Virtual reality headset for immersive experiences.| $299 | Electronics | 2 years          |
+| E95        | Wireless Charging Pad         | Qi-compatible wireless charging pad for smartphones.| $29 | Electronics | 1 year           |
+| E96        | Smart Thermostat              | Wi-Fi-enabled smart thermostat for home climate control.| $149 | Electronics | 2 years          |
+| E97        | Computer Monitor              | 27-inch computer monitor with IPS display.        | $299  | Electronics | 3 years          |
+| E98        | Solar-Powered Charger         | Solar-powered charger for outdoor charging.       | $49   | Electronics | 1 year           |
+| E99        | Robot Vacuum Cleaner          | Smart robot vacuum cleaner with mapping technology.| $349 | Electronics | 2 years          |
+| E100       | Wireless Keyboard and Mouse   | Combo set of wireless keyboard and mouse.         | $59   | Electronics | 1 year           |
+| G1         | All-Purpose Potting Soil   | Premium blend for indoor and outdoor plants.        | $5.99 | Gardening Supplies  | No      |
+| G2         | Flower Seeds Mix           | Colorful mix of flower seeds for a vibrant garden.  | $2.49 | Gardening Supplies  | Yes     |
+| G3         | Pruning Shears             | Sharp, durable pruning shears for precise cuts.     | $8.99 | Gardening Tools     | No      |
+| G4         | Organic Compost            | Nutrient-rich organic compost for soil enrichment.  | $7.49 | Soil Amendments    | Yes     |
+| G5         | Garden Gloves              | Comfortable and protective gloves for gardening.   | $3.99 | Gardening Tools     | No      |
+| G6         | Potted Herb Collection     | Collection of potted herbs for kitchen gardening.  | $12.99 | Plants              | Yes     |
+| G7         | Fertilizer Spikes          | Convenient fertilizer spikes for easy application. | $4.49 | Plant Nutrition     | No      |
+| G8         | Garden Hose                | Durable garden hose for watering plants.            | $15.99 | Watering Equipment | No      |
+| G9         | Raised Bed Kit             | Easy-to-assemble raised bed kit for vegetable garden.| $29.99 | Gardening Beds    | No      |
+| G10        | Succulent Assortment       | Assorted succulents for low-maintenance gardening. | $6.99 | Plants              | Yes     |
+| ...        | ...                        | ...                                                | ...   | ...                 | ...     |
+| G91        | LED Grow Lights            | Energy-efficient LED grow lights for indoor plants. | $24.99 | Plant Lighting      | No      |
+| G92        | Rose Pruning Gloves        | Thorn-resistant gloves for rose pruning.           | $9.99 | Gardening Tools     | No      |
+| G93        | Automatic Watering System  | System for automatic watering of garden plants.    | $34.99 | Watering Equipment | No      |
+| G94        | Pollinator Friendly Seeds  | Seeds to attract pollinators for a thriving garden.| $3.79 | Gardening Supplies  | Yes     |
+| G95        | Bamboo Garden Trellis      | Natural bamboo trellis for climbing plants.        | $11.49 | Garden Structures   | No      |
+| G96        | Plant Stand                | Stylish plant stand for displaying potted plants.  | $17.99 | Gardening Accessories | No    |
+| G97        | Bonsai Starter Kit         | Kit for growing and shaping your own bonsai tree.  | $21.99 | Bonsai              | No      |
+| G98        | Garden Kneeler and Seat    | Convenient kneeler and seat for comfortable gardening.| $19.99 | Gardening Tools   | No      |
+| G99        | Wildflower Seed Mix        | Mix of wildflower seeds for a natural garden look. | $4.99 | Gardening Supplies  | Yes     |
+| G100       | Indoor Herb Garden Kit      | Complete kit for growing herbs indoors.            | $16.99 | Plants              | Yes     |
+| A101       | Cotton T-Shirt         | Comfortable cotton t-shirt for everyday wear.      | $12.99 | Apparel  | M     | White     |
+| A102       | Denim Jeans            | Classic denim jeans for a timeless look.            | $29.99 | Apparel  | 32/34 | Blue      |
+| A103       | Summer Dress           | Flowy summer dress perfect for warm days.          | $24.99 | Apparel  | S     | Floral    |
+| A104       | Sports Hoodie          | Hooded sweatshirt for sports and casual outings.   | $34.99 | Apparel  | L     | Black     |
+| A105       | Formal Blouse          | Elegant formal blouse for professional occasions.  | $27.99 | Apparel  | XS    | Ivory     |
+| A106       | Running Shoes          | Lightweight running shoes for active lifestyles.   | $49.99 | Footwear | 8     | Blue/Grey |
+| A107       | Leather Jacket         | Stylish leather jacket for a trendy look.          | $69.99 | Apparel  | M     | Black     |
+| A108       | Yoga Leggings          | High-waisted yoga leggings for workouts.           | $19.99 | Activewear | S   | Purple    |
+| A109       | Plaid Scarf            | Warm plaid scarf for chilly days.                  | $9.99  | Accessories | One Size | Red    |
+| A110       | Knit Sweater           | Cozy knit sweater for cold weather.                | $39.99 | Apparel  | XL    | Grey      |
+| ...        | ...                    | ...                                                | ...   | ...      | ...   | ...       |
+| A191       | Sunglasses             | Stylish sunglasses for a cool vibe.               | $14.99 | Accessories | One Size | Black  |
+| A192       | Track Pants            | Comfortable track pants for casual wear.           | $22.99 | Activewear | M    | Navy      |
+| A193       | Beanie Hat             | Knit beanie hat to keep warm in winter.           | $7.99  | Accessories | One Size | Brown |
+| A194       | Ankle Boots            | Trendy ankle boots for a fashionable look.        | $54.99 | Footwear | 7     | Tan       |
+| A195       | Rain Jacket            | Waterproof rain jacket for rainy days.             | $44.99 | Outerwear | L    | Yellow    |
+| A196       | Graphic Tee            | Graphic-printed t-shirt for a casual style.       | $15.99 | Apparel  | XL    | Blue      |
+| A197       | Winter Gloves          | Insulated winter gloves to keep hands warm.       | $11.99 | Accessories | One Size | Black |
+| A198       | Sneakers               | Classic sneakers for a versatile look.            | $37.99 | Footwear | 9     | White     |
+| A199       | Wool Sweater           | Wool-blend sweater for a touch of luxury.         | $49.99 | Apparel  | M    | Burgundy  |
+| A200       | Backpack               | Spacious backpack for daily use.                  | $29.99 | Accessories | One Size | Grey |
+| F101       | Running Shoes                 | Lightweight and breathable running shoes.          | $59.99 | Footwear  | 8.5   | ActiveFit      | Mesh, Rubber          |
+| F102       | Casual Sneakers               | Stylish and comfortable sneakers for everyday wear.| $49.99 | Footwear  | 9.0   | UrbanTrend     | Canvas, Synthetic     |
+| F103       | Leather Boots                 | Classic leather boots for a timeless look.         | $89.99 | Footwear  | 7.5   | HeritageStyle  | Leather, Rubber       |
+| F104       | Sandals                       | Comfortable sandals for a relaxed summer vibe.     | $29.99 | Footwear  | 8.0   | BeachLife      | Synthetic             |
+| F105       | High Heels                    | Elegant high heels for a night out on the town.    | $69.99 | Footwear  | 6.5   | GlamourGaze    | Faux Leather          |
+| F106       | Hiking Boots                  | Durable hiking boots for outdoor adventures.       | $79.99 | Footwear  | 10.0  | TrekMaster     | Leather, Waterproof   |
+| F107       | Flip Flops                    | Casual flip flops for a day at the beach.          | $19.99 | Footwear  | 9.5   | SunSplash      | Rubber                |
+| F108       | Loafers                       | Classic loafers for a sophisticated look.          | $59.99 | Footwear  | 8.0   | Classique      | Suede, Leather        |
+| F109       | Basketball Shoes              | Performance basketball shoes for the court.        | $79.99 | Footwear  | 11.0  | DunkMaster     | Synthetic, Mesh       |
+| F110       | Espadrilles                   | Stylish espadrilles for a chic summer style.       | $39.99 | Footwear  | 7.0   | VogueVibe      | Canvas, Jute          |
+| ...        | ...                           | ...                                               | ...   | ...       | ...   | ...            | ...                    |
+| F191       | Winter Boots                  | Insulated winter boots for cold weather.           | $99.99 | Footwear  | 8.5   | FrostGuard     | Leather, Insulated    |
+| F192       | Slip-on Sneakers              | Convenient slip-on sneakers for on-the-go comfort.| $44.99 | Footwear  | 9.5   | EasyStride     | Textile, Rubber       |
+| F193       | Ballet Flats                  | Classic ballet flats for a versatile wardrobe.     | $34.99 | Footwear  | 7.0   | EleganceCharm  | Faux Leather          |
+| F194       | Cleats                        | Soccer cleats for optimal traction on the field.  | $54.99 | Footwear  | 10.5  | GoalGetter     | Synthetic             |
+| F195       | Ankle Boots                   | Trendy ankle boots to elevate your style.          | $69.99 | Footwear  | 8.0   | ChicCraze      | Suede, Block Heel     |
+| F196       | Slipper Socks                 | Cozy slipper socks for lounging at home.           | $19.99 | Footwear  | One Size | CozyFeet      | Fleece                |
+| F197       | Platform Shoes                | Fashionable platform shoes for a bold statement.  | $49.99 | Footwear  | 7.5   | TrendSet       | Synthetic             |
+| F198       | Cross Training Shoes          | Versatile cross-training shoes for workouts.      | $64.99 | Footwear  | 9.0   | FlexFit        | Mesh, Rubber          |
+| F199       | Rain Boots                    | Waterproof rain boots for wet weather.             | $39.99 | Footwear  | 8.0   | RainGuard      | Rubber                |
+| F200       | Memory Foam Slippers          | Comfortable memory foam slippers for relaxation.   | $29.99 | Footwear  | 8.5   | CloudComfort   | Faux Fur, Memory Foam |
+| HD1        | Elegant Table Lamp        | Sophisticated table lamp with a modern design.         | $29.99 | Lighting       | 10% Off  |
+| HD2        | Cozy Throw Blanket        | Soft and warm throw blanket for chilly evenings.       | $19.99 | Bedding        | 15% Off  |
+| HD3        | Decorative Wall Mirror    | Ornate wall mirror to add a touch of elegance.         | $49.99 | Wall Decor     | 20% Off  |
+| HD4        | Aromatherapy Diffuser     | Essential oil diffuser for a calming atmosphere.       | $39.99 | Home Fragrance | 10% Off  |
+| HD5        | Vintage Photo Frames      | Set of vintage-style photo frames for memories.       | $14.99 | Photo Frames   | 15% Off  |
+| HD6        | Abstract Canvas Painting  | Contemporary canvas art to enhance your wall decor.    | $59.99 | Wall Art       | 10% Off  |
+| HD7        | Rustic Throw Pillows      | Decorative throw pillows with a rustic touch.          | $9.99  | Pillows        | 15% Off  |
+| HD8        | Modern Area Rug           | Sleek and modern area rug to elevate your space.       | $79.99 | Rugs           | 10% Off  |
+| HD9        | Stylish Floor Vase        | Tall floor vase to showcase your favorite blooms.      | $34.99 | Vases          | 20% Off  |
+| HD10       | Wooden Wall Shelves       | Set of wooden shelves for displaying decor items.     | $24.99 | Shelving       | 15% Off  |
+| ...        | ...                       | ...                                                   | ...    | ...            | ...      |
+| HD91       | Ceramic Plant Pot Set     | Matching set of ceramic pots for your indoor plants.   | $19.99 | Planters       | 10% Off  |
+| HD92       | Geometric Wall Clock      | Modern geometric wall clock for a stylish look.        | $29.99 | Clocks         | 15% Off  |
+| HD93       | Scented Candles Set       | Set of scented candles in various relaxing fragrances.| $14.99 | Candles        | 10% Off  |
+| HD94       | Marble Coasters Set       | Elegant marble coasters to protect your surfaces.      | $9.99  | Coasters       | 15% Off  |
+| HD95       | Faux Fur Area Rug         | Luxurious faux fur area rug for a cozy ambiance.       | $49.99 | Rugs           | 10% Off  |
+| HD96       | Metal Wall Art            | Intricate metal wall art for a contemporary touch.     | $39.99 | Wall Art       | 15% Off  |
+| HD97       | Velvet Throw Blanket      | Plush velvet throw blanket for added comfort.         | $29.99 | Bedding        | 10% Off  |
+| HD98       | Glass Terrarium           | Glass terrarium for creating a mini indoor garden.    | $17.99 | Planters       | 20% Off  |
+| HD99       | Wooden Candle Holders     | Set of wooden candle holders for a warm glow.         | $12.99 | Candles        | 15% Off  |
+| HD100      | Abstract Sculpture        | Abstract sculpture to add an artistic flair.          | $49.99 | Sculptures     | 10% Off  |
+| A1         | Car Wash Kit               | Complete kit for a shiny, spotless car.            | $19.99 | Car Care   | AutoShine            |
+| A2         | Motor Oil (5W-30)          | High-performance motor oil for engine protection.  | $29.99 | Engine Oil | UltraLube            |
+| A3         | Windshield Wipers          | All-weather wipers for clear visibility.           | $14.99 | Accessories | ClearView            |
+| A4         | Car Battery                | Reliable and long-lasting automotive battery.     | $89.99 | Batteries  | PowerMax             |
+| A5         | Air Freshener              | Fresh scent to keep your car smelling great.       | $3.99  | Accessories | AromaDrive           |
+| A6         | Brake Pads                 | High-performance brake pads for safe stopping.    | $39.99 | Brakes     | StopSafe             |
+| A7         | Car Wax                    | Premium wax for a protective and shiny finish.    | $24.99 | Car Care   | ShineMaster          |
+| A8         | Tire Inflator              | Compact inflator for on-the-go tire maintenance.  | $19.99 | Accessories | AirPump              |
+| A9         | Seat Covers                | Stylish and comfortable covers for car seats.     | $49.99 | Interior   | ComfortDrive         |
+| A10        | Jump Starter Kit           | Emergency starter for dead car batteries.         | $49.99 | Accessories | PowerJump            |
+| ...        | ...                        | ...                                               | ...   | ...        | ...                  |
+| A91        | Dashboard Cleaner          | Cleans and protects your car's dashboard.         | $8.99  | Car Care   | DashGuard            |
+| A92        | Synthetic Motor Oil (5W-20)| Advanced synthetic motor oil for fuel efficiency. | $34.99 | Engine Oil | SynthoMax            |
+| A93        | Car Cover                  | Weather-resistant cover to protect your car.     | $59.99 | Car Care   | WeatherShield        |
+| A94        | Engine Degreaser           | Powerful degreaser for a clean engine bay.        | $12.99 | Engine Care| CleanEngine          |
+| A95        | Alloy Wheel Cleaner        | Cleans and restores shine to alloy wheels.        | $9.99  | Wheel Care | WheelShine           |
+| A96        | Brake Fluid                | High-quality brake fluid for optimal performance.| $7.99  | Brakes     | BrakeMaster          |
+| A97        | Roof Rack                  | Durable roof rack for extra cargo space.          | $89.99 | Accessories | CargoMax             |
+| A98        | Car Vacuum Cleaner         | Portable vacuum for keeping your car clean.       | $29.99 | Car Care   | DustBuster           |
+| A99        | Radiator Coolant           | Antifreeze and coolant for engine protection.    | $11.99 | Engine Care| CoolFlow             |
+| A100       | License Plate Frame        | Stylish frame to add a personal touch to your car.| $5.99  | Accessories | PlateStyle           |
+| S1         | Running Shoes                  | Lightweight and breathable running shoes.             | $49.99 | Sports & Outdoors | No                |
+| S2         | Yoga Mat                       | Non-slip, extra-thick yoga mat for comfortable workouts.| $19.99 | Sports & Outdoors | No                |
+| S3         | Dumbbell Set                   | Adjustable dumbbell set for versatile strength training.| $59.99 | Sports & Outdoors | No                |
+| S4         | Fitness Tracker                | Smart fitness tracker with heart rate monitoring.      | $39.99 | Sports & Outdoors | No                |
+| S5         | Bicycle Helmet                 | Lightweight and aerodynamic bicycle helmet.           | $29.99 | Sports & Outdoors | No                |
+| S6         | Hiking Backpack                | Durable hiking backpack with multiple compartments.   | $44.99 | Sports & Outdoors | No                |
+| S7         | Jump Rope                      | Adjustable jump rope for cardio workouts.             | $9.99  | Sports & Outdoors | No                |
+| S8         | Camping Tent                   | Waterproof camping tent for outdoor adventures.       | $89.99 | Sports & Outdoors | No                |
+| S9         | Soccer Ball                    | High-quality soccer ball for recreational play.       | $14.99 | Sports & Outdoors | No                |
+| S10        | Resistance Bands Set           | Set of resistance bands for full-body workouts.       | $24.99 | Sports & Outdoors | No                |
+| ...        | ...                            | ...                                                  | ...   | ...                | ...               |
+| S91        | Golf Club Set                  | Complete golf club set for beginners.                 | $199.99 | Sports & Outdoors | No                |
+| S92        | Tennis Racket                  | Professional-grade tennis racket for precision shots.  | $79.99 | Sports & Outdoors | No                |
+| S93        | Camping Stove                  | Portable camping stove for outdoor cooking.           | $34.99 | Sports & Outdoors | No                |
+| S94        | Skateboard                     | Classic skateboard for street cruising.               | $39.99 | Sports & Outdoors | No                |
+| S95        | Climbing Harness               | Safety climbing harness for rock climbing adventures. | $54.99 | Sports & Outdoors | No                |
+| S96        | Fishing Rod and Reel Combo     | Combo set for fishing enthusiasts.                    | $69.99 | Sports & Outdoors | No                |
+| S97        | Trail Running Shoes            | Grippy trail running shoes for off-road adventures.   | $59.99 | Sports & Outdoors | No                |
+| S98        | Kayak                          | Lightweight kayak for water sports.                   | $299.99 | Sports & Outdoors | No                |
+| S99        | Archery Bow                    | Recurve bow for archery enthusiasts.                  | $119.99 | Sports & Outdoors | No                |
+| S100       | Camping Hammock                | Compact and lightweight camping hammock.              | $19.99 | Sports & Outdoors | No                |
+| B1         | "The Adventure Chronicles"    | Thrilling adventures from around the world.        | $12.99 | Books & Magazines |
+| B2         | "Cooking Mastery"             | A comprehensive guide to mastering cooking skills.| $19.99 | Books & Magazines |
+| B3         | "Mysteries Unveiled"          | Unraveling mysteries that baffle the mind.         | $14.49 | Books & Magazines |
+| B4         | "Gardening Essentials"        | Tips and tricks for cultivating the perfect garden.| $9.99  | Books & Magazines |
+| B5         | "Financial Wisdom"            | Strategies for managing and growing your wealth.   | $24.99 | Books & Magazines |
+| B6         | "Historical Encounters"       | Journey through key moments in history.            | $18.79 | Books & Magazines |
+| B7         | "Sci-Fi Wonders"              | Exploring the wonders of the science fiction genre.| $15.99 | Books & Magazines |
+| B8         | "Healthy Living Guide"        | A holistic approach to a healthy and happy life.   | $22.49 | Books & Magazines |
+| B9         | "Poetry Expressions"          | Collection of expressive and thought-provoking poems.| $11.99 | Books & Magazines |
+| B10        | "Tech Innovations"            | Exploring the latest technological innovations.   | $17.99 | Books & Magazines |
+| ...        | ...                           | ...                                               | ...   | ...               |
+| B91        | "Mindfulness Journey"         | Embracing mindfulness for a balanced life.         | $16.49 | Books & Magazines |
+| B92        | "Travel Tales"                | Captivating tales from travelers around the globe. | $20.99 | Books & Magazines |
+| B93        | "Science Explorations"        | Dive into the fascinating world of science.        | $13.29 | Books & Magazines |
+| B94        | "Artistic Inspirations"       | A collection of artworks and creative inspirations.| $18.99 | Books & Magazines |
+| B95        | "Music Maestros"              | Stories of legendary musicians and their impact.   | $14.99 | Books & Magazines |
+| B96        | "Green Living Handbook"       | Sustainable living practices for a better planet.  | $21.49 | Books & Magazines |
+| B97        | "Business Strategies"         | Strategies for success in the corporate world.     | $19.79 | Books & Magazines |
+| B98        | "Mind-Blowing Facts"          | A collection of mind-boggling and fun facts.       | $12.99 | Books & Magazines |
+| B99        | "Fashion Forward"             | Trends and insights into the world of fashion.     | $16.99 | Books & Magazines |
+| B100       | "Culinary Delights"           | Culinary masterpieces from renowned chefs.         | $23.99 | Books & Magazines |
+| T1         | LEGO Classic Bricks Set       | Build and create with a variety of LEGO bricks.   | $19.99 | Toys & Games  |
+| T2         | Barbie Dreamhouse             | The ultimate dreamhouse for Barbie and friends.   | $49.99 | Toys & Games  |
+| T3         | Nerf N-Strike Elite Blaster   | High-performance Nerf blaster for epic battles.   | $29.99 | Toys & Games  |
+| T4         | Monopoly Board Game           | Classic Monopoly board game for family fun.       | $24.99 | Toys & Games  |
+| T5         | Hot Wheels Mega Track Set     | Exciting Hot Wheels track set for racing action.  | $34.99 | Toys & Games  |
+| T6         | Baby Yoda Plush Toy           | Adorable plush toy of the famous Baby Yoda.       | $14.99 | Toys & Games  |
+| T7         | Nintendo Switch Console       | Gaming console for on-the-go and home play.       | $299.99 | Electronics   |
+| T8         | Jenga Classic Game            | Classic Jenga game for stacking fun.              | $12.99 | Toys & Games  |
+| T9         | Rainbow Unicorn Stuffed Animal| Soft and cuddly stuffed animal for kids.           | $9.99  | Toys & Games  |
+| T10        | Remote Control Drone          | High-flying drone with remote control.            | $49.99 | Toys & Games  |
+| ...        | ...                           | ...                                               | ...   | ...           |
+| T91        | Puzzle Mastermind Game        | Challenging puzzle game for brain training.       | $17.99 | Toys & Games  |
+| T92        | Play-Doh Fun Factory Set      | Creative Play-Doh set for molding fun.            | $8.99  | Toys & Games  |
+| T93        | Virtual Reality Headset       | Explore virtual worlds with this VR headset.      | $89.99 | Electronics   |
+| T94        | Magnetic Building Blocks      | Magnetic building blocks for imaginative play.    | $19.99 | Toys & Games  |
+| T95        | Disney Princess Dress-up Set  | Dress-up set featuring popular Disney princesses.| $16.99 | Toys & Games  |
+| T96        | Paw Patrol Adventure Set      | Join the Paw Patrol on exciting adventures.       | $29.99 | Toys & Games  |
+| T97        | Chess Master Set              | Chess set for beginners and masters alike.        | $14.99 | Toys & Games  |
+| T98        | Science Experiment Kit        | Educational science kit for hands-on learning.    | $21.99 | Toys & Games  |
+| T99        | Superhero Action Figures      | Set of superhero action figures for epic battles.| $19.99 | Toys & Games  |
+| T100       | Musical Keyboard for Kids      | Electronic keyboard for budding musicians.        | $39.99 | Toys & Games  |
+| S1         | Ballpoint Pens (Pack of 10)| Blue and black ink pens for everyday use.     | $2.99 | Stationery  | WriteRight      |
+| S2         | Spiral Notebooks (Set of 3)| College-ruled notebooks for school or work.   | $4.49 | Stationery  | NoteMasters     |
+| S3         | Mechanical Pencils (Pack of 5)| Refillable mechanical pencils with erasers. | $3.99 | Stationery  | LeadMaster      |
+| S4         | Sticky Notes (Assorted Colors)| Assorted sticky notes for reminders.        | $1.99 | Stationery  | StickEase       |
+| S5         | Whiteboard Markers (Pack of 8)| Dry erase markers for whiteboards.         | $5.49 | Stationery  | BrightWrite     |
+| S6         | Highlighters (Pack of 6)  | Assorted highlighters for studying.          | $3.29 | Stationery  | GlowUp          |
+| S7         | Pocket Calculators       | Basic pocket calculators for math tasks.     | $6.99 | Stationery  | CalcMaster      |
+| S8         | File Folders (Set of 12) | Assorted file folders for organization.     | $7.99 | Stationery  | OrganizePro     |
+| S9         | Desk Organizer           | Mesh desk organizer for office supplies.     | $8.99 | Stationery  | DeskMate        |
+| S10        | Glue Sticks (Pack of 4)  | Clear glue sticks for crafting and projects. | $2.49 | Stationery  | CraftBond       |
+| ...        | ...                      | ...                                           | ...   | ...         | ...             |
+| S91        | Correction Tape (Pack of 3)| White correction tape for neat corrections. | $3.79 | Stationery  | CorrectEase     |
+| S92        | Binder Clips (Assorted Sizes)| Assorted binder clips for paperwork.       | $1.59 | Stationery  | ClipIt          |
+| S93        | Dry Erase Board          | Magnetic dry erase board for messages.       | $12.99| Stationery  | QuickNotes      |
+| S94        | Art Sketchbook           | Acid-free sketchbook for artistic creations. | $9.49 | Stationery  | ArtCanvas       |
+| S95        | Rollerball Pens (Pack of 5)| Smooth rollerball pens for precise writing.| $4.99 | Stationery  | GlideWrite      |
+| S96        | Craft Scissors           | Stainless steel craft scissors for cutting. | $3.49 | Stationery  | CutCraft        |
+| S97        | Permanent Markers (Pack of 4)| Permanent markers for labeling.          | $5.99 | Stationery  | MarkRight       |
+| S98        | Notebook Planner         | Weekly planner notebook for scheduling.      | $6.49 | Stationery  | PlanAhead       |
+| S99        | Stapler and Remover Set   | Stapler and staple remover combo set.       | $7.99 | Stationery  | StapleEase      |
+| S100       | Colored Pencils (Pack of 12)| Assorted colored pencils for drawing.     | $8.99 | Stationery  | ColorBlend      |
+| PS1        | Colorful Party Hats            | Assorted vibrant party hats for celebration.        | $2.99 | Party Supplies  | 150               |
+| PS2        | Balloon Bouquet                | Set of helium balloons for a festive atmosphere.   | $9.99 | Party Supplies  | 200               |
+| PS3        | Sparkling Confetti             | Shimmering confetti to add sparkle to your party.   | $1.49 | Party Supplies  | 100               |
+| PS4        | Birthday Banner                | Decorative banner with 'Happy Birthday' message.    | $3.99 | Party Supplies  | 75                |
+| PS5        | Party Streamers                | Colorful streamers to enhance party decorations.    | $1.79 | Party Supplies  | 120               |
+| PS6        | Cake Toppers                   | Fun cake toppers featuring various designs.         | $2.49 | Party Supplies  | 80                |
+| PS7        | Disposable Tableware Set        | Convenient set of plates, cups, and utensils.       | $7.99 | Party Supplies  | 100               |
+| PS8        | Birthday Candles               | Pack of birthday candles for cake decoration.       | $0.99 | Party Supplies  | 150               |
+| PS9        | Party Favor Bags               | Colorful bags filled with party favors for guests.  | $4.49 | Party Supplies  | 50                |
+| PS10       | Decorative Tablecloth          | Vibrant tablecloth to add a festive touch to tables.| $5.99 | Party Supplies  | 90                |
+| ...        | ...                            | ...                                                | ...   | ...             | ...               |
+| PS91       | Glow-in-the-Dark Stickers      | Stickers that glow in the dark for added fun.       | $1.29 | Party Supplies  | 120               |
+| PS92       | Carnival Game Set              | Mini carnival games for an entertaining party.      | $8.99 | Party Supplies  | 30                |
+| PS93       | Photo Booth Props             | Assorted props for creating memorable photos.       | $3.49 | Party Supplies  | 70                |
+| PS94       | Disposable Champagne Flutes    | Elegant disposable flutes for toasting.             | $6.99 | Party Supplies  | 40                |
+| PS95       | Pin the Tail on the Donkey     | Classic party game for kids' entertainment.         | $2.99 | Party Supplies  | 60                |
+| PS96       | Whistle Favors                 | Whistle party favors for a lively atmosphere.       | $1.49 | Party Supplies  | 100               |
+| PS97       | Outdoor Party Lights           | String lights for outdoor party ambiance.           | $12.99| Party Supplies  | 50                |
+| PS98       | Pinata                         | Traditional pinata for a fun-filled activity.       | $9.99 | Party Supplies  | 25                |
+| PS99       | Hanging Paper Lanterns         | Decorative lanterns to hang around the venue.      | $4.79 | Party Supplies  | 80                |
+| PS100      | Glow Stick Bracelets           | Glow stick bracelets for a glowing party look.      | $1.99 | Party Supplies  | 150               |
+| CH1        | Acrylic Paint Set         | Set of vibrant acrylic paints for art projects.   | $12.99 | Crafts & Hobbies | No                |
+| CH2        | Sketching Pencils          | Professional sketching pencils for detailed art.  | $8.49  | Crafts & Hobbies | No                |
+| CH3        | DIY Scrapbooking Kit       | Scrapbooking kit with assorted materials.         | $19.99 | Crafts & Hobbies | No                |
+| CH4        | Knitting Yarn Bundle       | Bundle of colorful yarn for knitting projects.    | $14.99 | Crafts & Hobbies | No                |
+| CH5        | Watercolor Paint Set       | High-quality watercolor set for artistic painting.| $15.99 | Crafts & Hobbies | No                |
+| CH6        | Wood Carving Tools         | Set of tools for wood carving and sculpting.      | $22.99 | Crafts & Hobbies | No                |
+| CH7        | Cross-Stitch Kit           | Cross-stitch kit with embroidery materials.       | $9.99  | Crafts & Hobbies | No                |
+| CH8        | DIY Candle Making Kit      | Kit for making scented candles at home.           | $17.99 | Crafts & Hobbies | No                |
+| CH9        | Modeling Clay Set          | Assorted colors of modeling clay for creativity.  | $7.49  | Crafts & Hobbies | No                |
+| CH10       | Origami Paper Pack         | Pack of origami paper for folding art.           | $5.99  | Crafts & Hobbies | No                |
+| ...        | ...                       | ...                                               | ...   | ...              | ...               |
+| CH91       | Calligraphy Pen Set        | Set of calligraphy pens for elegant writing.     | $10.99 | Crafts & Hobbies | No                |
+| CH92       | DIY Tie-Dye Kit            | Kit for creating tie-dye designs on fabric.      | $14.99 | Crafts & Hobbies | No                |
+| CH93       | Embroidery Thread Set      | Set of colorful embroidery threads for sewing.   | $6.49  | Crafts & Hobbies | No                |
+| CH94       | Quilting Fabric Bundle     | Bundle of fabric for quilting and sewing.        | $18.99 | Crafts & Hobbies | No                |
+| CH95       | Art Easel with Canvas      | Adjustable art easel with a canvas for painting.  | $29.99 | Crafts & Hobbies | No                |
+| CH96       | DIY Macrame Kit            | Kit for creating macrame wall hangings.          | $12.99 | Crafts & Hobbies | No                |
+| CH97       | Pottery Wheel Kit          | Pottery wheel kit for shaping clay.              | $39.99 | Crafts & Hobbies | No                |
+| CH98       | Beading Jewelry Kit        | Kit for making beaded jewelry designs.           | $11.49 | Crafts & Hobbies | No                |
+| CH99       | DIY Tie-Dye T-shirts       | Plain t-shirts and dyes for tie-dye creations.   | $16.99 | Crafts & Hobbies | No                |
+| CH100      | Watercolor Brush Set       | Set of quality brushes for watercolor painting. | $9.99  | Crafts & Hobbies | No                |
+| F1         | Treadmill XT Pro                | High-performance treadmill with multiple programs.| $799  | Fitness & Exercise Equipment | ProFit            |
+| F2         | Adjustable Dumbbells Set        | Set of adjustable dumbbells for versatile workouts.| $149 | Fitness & Exercise Equipment | IronFlex          |
+| F3         | Yoga Mat Deluxe                 | Extra-thick yoga mat for comfort and stability.   | $29   | Fitness & Exercise Equipment | FlexLife          |
+| F4         | Elliptical Trainer 3000         | Elliptical trainer with built-in heart rate monitor.| $899 | Fitness & Exercise Equipment | CardioZone        |
+| F5         | Resistance Bands Set            | Set of resistance bands for strength training.    | $39   | Fitness & Exercise Equipment | PowerFit          |
+| F6         | Spin Bike Pro                   | Professional-grade spin bike for intense workouts.| $549  | Fitness & Exercise Equipment | SpinMaster        |
+| F7         | Kettlebell Set                  | Durable kettlebell set for full-body workouts.    | $89   | Fitness & Exercise Equipment | SteelGrip         |
+| F8         | Weight Bench Pro                | Adjustable weight bench for various exercises.    | $149 | Fitness & Exercise Equipment | BenchFit          |
+| F9         | Jump Rope Premium               | Premium-quality jump rope for cardio workouts.    | $19   | Fitness & Exercise Equipment | SpeedJump         |
+| F10        | Power Rack Ultimate             | Ultimate power rack for heavy lifting and squats. | $699 | Fitness & Exercise Equipment | ProLift           |
+| ...        | ...                            | ...                                               | ...   | ...                     | ...               |
+| F91        | Balance Ball Stability Trainer | Stability trainer ball for core exercises.         | $24   | Fitness & Exercise Equipment | CoreBalance       |
+| F92        | Foam Roller Set                 | Set of foam rollers for muscle recovery.          | $29   | Fitness & Exercise Equipment | RecoverEase       |
+| F93        | Boxing Gloves Pro               | Professional-grade boxing gloves for training.   | $49   | Fitness & Exercise Equipment | PunchPro          |
+| F94        | Rowing Machine Elite            | Elite rowing machine for a full-body workout.    | $799 | Fitness & Exercise Equipment | RowMaster         |
+| F95        | Agility Ladder Deluxe           | Deluxe agility ladder for speed and coordination.| $34   | Fitness & Exercise Equipment | SpeedPro          |
+| F96        | Medicine Ball Set               | Set of medicine balls for strength and agility.  | $49   | Fitness & Exercise Equipment | MediFit           |
+| F97        | TRX Suspension Trainer          | Suspension trainer for bodyweight exercises.      | $79   | Fitness & Exercise Equipment | TRX              |
+| F98        | Yoga Block Set                  | Set of yoga blocks for support and alignment.    | $19   | Fitness & Exercise Equipment | YogaEssentials    |
+| F99        | Push-Up Bars                    | Ergonomic push-up bars for enhanced workouts.    | $14   | Fitness & Exercise Equipment | PushPro           |
+| F100       | Inversion Table Pro             | Pro-grade inversion table for spinal decompression.| $199 | Fitness & Exercise Equipment | InvertPro         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
